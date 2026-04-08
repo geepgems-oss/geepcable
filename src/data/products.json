@@ -1,0 +1,3434 @@
+[
+  {
+    "id": 1,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "FR House Wire",
+    "desc": "Flame Retardant PVC insulated copper conductor wire for domestic wiring",
+    "specs": [
+      "Conductor: Electrolytic Grade Copper",
+      "Insulation: FR PVC",
+      "Voltage: 1100V",
+      "Size: 0.5 to 10 Sq.mm"
+    ],
+    "applications": [
+      "Home Wiring",
+      "Office Wiring",
+      "Shops",
+      "Hotels"
+    ],
+    "image": "/images/house-wire/01.jpg",
+    "price": "₹12/meter"
+  },
+  {
+    "id": 2,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "FRLS House Wire",
+    "desc": "Flame Retardant Low Smoke PVC insulated wire for enclosed spaces",
+    "specs": [
+      "Conductor: Electrolytic Grade Copper",
+      "Insulation: FRLS PVC",
+      "Voltage: 1100V",
+      "Size: 0.5 to 16 Sq.mm"
+    ],
+    "applications": [
+      "Hospitals",
+      "Hotels",
+      "Malls",
+      "Airports"
+    ],
+    "image": "/images/house-wire/02.jpg",
+    "price": "₹15/meter"
+  },
+  {
+    "id": 3,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "FRLSH House Wire",
+    "desc": "Flame Retardant Low Smoke Halogen Free wire for critical safety areas",
+    "specs": [
+      "Conductor: Electrolytic Grade Copper",
+      "Insulation: FRLSH XLPE",
+      "Voltage: 1100V",
+      "Size: 1.0 to 10 Sq.mm"
+    ],
+    "applications": [
+      "Nuclear Plants",
+      "Metros",
+      "Tunnels",
+      "Data Centers"
+    ],
+    "image": "/images/house-wire/03.jpg",
+    "price": "₹18/meter"
+  },
+  {
+    "id": 4,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "ZHFR House Wire",
+    "desc": "Zero Halogen Flame Retardant wire for maximum fire safety",
+    "specs": [
+      "Conductor: Annealed Copper",
+      "Insulation: ZHFR Compound",
+      "Voltage: 1100V",
+      "Size: 1.0 to 6 Sq.mm"
+    ],
+    "applications": [
+      "High Rise Buildings",
+      "Schools",
+      "Hospitals",
+      "Malls"
+    ],
+    "image": "/images/house-wire/04.jpg",
+    "price": "₹20/meter"
+  },
+  {
+    "id": 5,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "HR House Wire",
+    "desc": "Heat Resistant PVC insulated wire for high temperature zones",
+    "specs": [
+      "Conductor: Electrolytic Copper",
+      "Insulation: HR PVC",
+      "Temp Rating: 85°C",
+      "Size: 0.75 to 6 Sq.mm"
+    ],
+    "applications": [
+      "Kitchens",
+      "Industrial Areas",
+      "Boiler Rooms",
+      "Bakeries"
+    ],
+    "image": "/images/house-wire/05.jpg",
+    "price": "₹14/meter"
+  },
+  {
+    "id": 6,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "Earthing Wire",
+    "desc": "Green/Yellow PVC insulated copper wire for earthing systems",
+    "specs": [
+      "Conductor: Bare Copper",
+      "Insulation: Green-Yellow PVC",
+      "Voltage: 1100V",
+      "Size: 1.0 to 16 Sq.mm"
+    ],
+    "applications": [
+      "Earthing Systems",
+      "Lightning Protection",
+      "Substations",
+      "Panels"
+    ],
+    "image": "/images/house-wire/06.jpg",
+    "price": "₹11/meter"
+  },
+  {
+    "id": 7,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "Multi Strand House Wire",
+    "desc": "Multi-stranded flexible copper house wire for easy installation",
+    "specs": [
+      "Conductor: Multi-Strand Copper",
+      "Insulation: FR PVC",
+      "Voltage: 1100V",
+      "Size: 0.5 to 6 Sq.mm"
+    ],
+    "applications": [
+      "Domestic Wiring",
+      "Conduit Wiring",
+      "Concealed Wiring",
+      "Apartments"
+    ],
+    "image": "/images/house-wire/07.jpg",
+    "price": "₹13/meter"
+  },
+  {
+    "id": 8,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "Auto Wire",
+    "desc": "Thin wall PVC insulated wire for automotive applications",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: Thin Wall PVC",
+      "Voltage: 60V",
+      "Size: 0.5 to 4 Sq.mm"
+    ],
+    "applications": [
+      "Automobiles",
+      "Tractors",
+      "Two Wheelers",
+      "Electric Vehicles"
+    ],
+    "image": "/images/house-wire/08.jpg",
+    "price": "₹8/meter"
+  },
+  {
+    "id": 9,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "Speaker Wire",
+    "desc": "Transparent PVC insulated OFC wire for audio systems",
+    "specs": [
+      "Conductor: OFC Copper",
+      "Insulation: Transparent PVC",
+      "Gauge: 14-18 AWG",
+      "Type: 2-Core Parallel"
+    ],
+    "applications": [
+      "Home Theater",
+      "PA Systems",
+      "DJ Systems",
+      "Auditoriums"
+    ],
+    "image": "/images/house-wire/09.jpg",
+    "price": "₹10/meter"
+  },
+  {
+    "id": 10,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "LED Wire",
+    "desc": "Low voltage DC wire for LED lighting installations",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PVC",
+      "Voltage: 24V DC",
+      "Size: 0.5 to 2.5 Sq.mm"
+    ],
+    "applications": [
+      "LED Strips",
+      "Panel Lights",
+      "Decorative Lighting",
+      "Signage"
+    ],
+    "image": "/images/house-wire/10.jpg",
+    "price": "₹7/meter"
+  },
+  {
+    "id": 11,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "Building Wire 2.5mm",
+    "desc": "Standard 2.5 sq mm FR copper wire for general building wiring",
+    "specs": [
+      "Conductor: Solid/Stranded Copper",
+      "Insulation: FR PVC",
+      "Voltage: 1100V",
+      "Size: 2.5 Sq.mm"
+    ],
+    "applications": [
+      "Socket Circuits",
+      "General Wiring",
+      "Residential",
+      "Commercial"
+    ],
+    "image": "/images/house-wire/11.jpg",
+    "price": "₹16/meter"
+  },
+  {
+    "id": 12,
+    "category": "House Wire",
+    "slug": "house-wire",
+    "color": "#FF6B35",
+    "name": "Building Wire 4mm",
+    "desc": "Heavy duty 4 sq mm FR copper wire for power circuits",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: FR PVC",
+      "Voltage: 1100V",
+      "Size: 4 Sq.mm"
+    ],
+    "applications": [
+      "AC Circuits",
+      "Geyser Lines",
+      "Heavy Loads",
+      "Main Lines"
+    ],
+    "image": "/images/house-wire/12.jpg",
+    "price": "₹22/meter"
+  },
+  {
+    "id": 13,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Multicore Flexible Cable",
+    "desc": "Multi-strand flexible copper conductor cable for portable equipment",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: PVC",
+      "Voltage: 1100V",
+      "Cores: 2 to 5"
+    ],
+    "applications": [
+      "Power Tools",
+      "Appliances",
+      "Extension Boards",
+      "Machinery"
+    ],
+    "image": "/images/flexible-cable/01.jpg",
+    "price": "₹35/meter"
+  },
+  {
+    "id": 14,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Heat Resistant Flexible Cable",
+    "desc": "Silicone rubber insulated flexible cable for high temperature use",
+    "specs": [
+      "Conductor: Tinned Copper",
+      "Insulation: Silicone Rubber",
+      "Temp: -60°C to 180°C",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Furnaces",
+      "Ovens",
+      "Steel Plants",
+      "Foundries"
+    ],
+    "image": "/images/flexible-cable/02.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 15,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Submersible Flat Cable",
+    "desc": "Three core flat flexible cable for submersible pump motors",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PVC",
+      "Sheath: Flat PVC",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Submersible Pumps",
+      "Borewell",
+      "Agriculture",
+      "Water Treatment"
+    ],
+    "image": "/images/flexible-cable/03.jpg",
+    "price": "₹45/meter"
+  },
+  {
+    "id": 16,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Round Flexible Cable",
+    "desc": "Round sheathed flexible cable for industrial equipment connection",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: PVC",
+      "Cores: 2 to 7",
+      "Voltage: 660V"
+    ],
+    "applications": [
+      "Machine Tools",
+      "Conveyor Systems",
+      "Packaging Machines",
+      "CNC Machines"
+    ],
+    "image": "/images/flexible-cable/04.jpg",
+    "price": "₹40/meter"
+  },
+  {
+    "id": 17,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Oil Resistant Flexible Cable",
+    "desc": "Oil resistant PVC sheathed cable for oily and greasy environments",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: PVC",
+      "Sheath: Oil Resistant PVC",
+      "Temp: -15°C to 80°C"
+    ],
+    "applications": [
+      "Machine Tools",
+      "Oil Rigs",
+      "Workshops",
+      "Automotive Plants"
+    ],
+    "image": "/images/flexible-cable/05.jpg",
+    "price": "₹55/meter"
+  },
+  {
+    "id": 18,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Trailing Cable",
+    "desc": "Heavy duty flexible trailing cable for mobile mining equipment",
+    "specs": [
+      "Conductor: Extra Fine Stranded",
+      "Insulation: Rubber",
+      "Sheath: Tough Rubber",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Mining",
+      "Quarries",
+      "Cranes",
+      "Draglines"
+    ],
+    "image": "/images/flexible-cable/06.jpg",
+    "price": "₹85/meter"
+  },
+  {
+    "id": 19,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Lift Cable",
+    "desc": "Flat flexible travelling cable for elevator installations",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: PVC",
+      "Cores: 12 to 36",
+      "Type: Flat"
+    ],
+    "applications": [
+      "Elevators",
+      "Lifts",
+      "Escalators",
+      "Moving Walkways"
+    ],
+    "image": "/images/flexible-cable/07.jpg",
+    "price": "₹120/meter"
+  },
+  {
+    "id": 20,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Pendant Cable",
+    "desc": "Highly flexible pendant control cable for crane operations",
+    "specs": [
+      "Conductor: Extra Fine Copper",
+      "Insulation: PUR/PVC",
+      "Cores: 4 to 18",
+      "Flex Life: 5 Million Cycles"
+    ],
+    "applications": [
+      "EOT Cranes",
+      "Hoists",
+      "Material Handling",
+      "Port Cranes"
+    ],
+    "image": "/images/flexible-cable/08.jpg",
+    "price": "₹75/meter"
+  },
+  {
+    "id": 21,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Festoon Cable",
+    "desc": "Flat flexible cable for festoon systems on overhead cranes",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: Rubber",
+      "Type: Flat",
+      "Voltage: 660V"
+    ],
+    "applications": [
+      "Festoon Systems",
+      "Overhead Cranes",
+      "Gantry Cranes",
+      "Container Cranes"
+    ],
+    "image": "/images/flexible-cable/09.jpg",
+    "price": "₹90/meter"
+  },
+  {
+    "id": 22,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Spiral Cable",
+    "desc": "Retractable coiled spiral cable for space-saving connections",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PUR",
+      "Cores: 2 to 12",
+      "Extended Length: Up to 8m"
+    ],
+    "applications": [
+      "Machine Tools",
+      "Robotics",
+      "Medical Equipment",
+      "Telecom"
+    ],
+    "image": "/images/flexible-cable/10.jpg",
+    "price": "₹150/meter"
+  },
+  {
+    "id": 23,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Shielded Flexible Cable",
+    "desc": "Braided copper shielded flexible cable for EMI protection",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Shield: Copper Braid",
+      "Insulation: PVC",
+      "Cores: 2 to 12"
+    ],
+    "applications": [
+      "VFD Drives",
+      "Servo Motors",
+      "Audio Systems",
+      "Instrumentation"
+    ],
+    "image": "/images/flexible-cable/11.jpg",
+    "price": "₹70/meter"
+  },
+  {
+    "id": 24,
+    "category": "Flexible Cable",
+    "slug": "flexible-cable",
+    "color": "#4ECDC4",
+    "name": "Rubber Flexible Cable",
+    "desc": "Heavy duty rubber insulated and sheathed flexible cable",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: Rubber",
+      "Sheath: Tough Rubber",
+      "Voltage: 450/750V"
+    ],
+    "applications": [
+      "Construction Sites",
+      "Mining",
+      "Portable Equipment",
+      "Outdoor Events"
+    ],
+    "image": "/images/flexible-cable/12.jpg",
+    "price": "₹60/meter"
+  },
+  {
+    "id": 25,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "PVC Control Cable",
+    "desc": "Multi-core PVC insulated and sheathed control cable for panels",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PVC",
+      "Voltage: 1100V",
+      "Cores: 2 to 61"
+    ],
+    "applications": [
+      "Control Panels",
+      "Instrumentation",
+      "Automation",
+      "Switchgear"
+    ],
+    "image": "/images/control-cable/01.jpg",
+    "price": "₹45/meter"
+  },
+  {
+    "id": 26,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "XLPE Control Cable",
+    "desc": "Cross linked polyethylene insulated control cable for industry",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: XLPE",
+      "Voltage: 1100V",
+      "Cores: 2 to 37"
+    ],
+    "applications": [
+      "Power Plants",
+      "Refineries",
+      "Chemical Plants",
+      "Steel Mills"
+    ],
+    "image": "/images/control-cable/02.jpg",
+    "price": "₹55/meter"
+  },
+  {
+    "id": 27,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Screened Control Cable",
+    "desc": "Overall screened control cable for interference-free signal transmission",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Screen: Aluminium Foil",
+      "Insulation: PVC",
+      "Cores: 2 to 24"
+    ],
+    "applications": [
+      "DCS Systems",
+      "PLC Systems",
+      "SCADA",
+      "Process Control"
+    ],
+    "image": "/images/control-cable/03.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 28,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Armoured Control Cable",
+    "desc": "Steel wire armoured control cable for outdoor underground use",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Armour: Galvanized Steel Wire",
+      "Insulation: PVC",
+      "Cores: 2 to 37"
+    ],
+    "applications": [
+      "Underground",
+      "Outdoor",
+      "Substations",
+      "Power Plants"
+    ],
+    "image": "/images/control-cable/04.jpg",
+    "price": "₹75/meter"
+  },
+  {
+    "id": 29,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Fire Resistant Control Cable",
+    "desc": "Mica tape wrapped fire resistant control cable for critical circuits",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Fire Barrier: Mica Tape",
+      "Insulation: XLPE",
+      "Fire Rating: 3 Hours"
+    ],
+    "applications": [
+      "Fire Alarm Systems",
+      "Emergency Systems",
+      "Nuclear Plants",
+      "Refineries"
+    ],
+    "image": "/images/control-cable/05.jpg",
+    "price": "₹95/meter"
+  },
+  {
+    "id": 30,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Flexible Control Cable",
+    "desc": "Highly flexible multi-core control cable for moving applications",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: PVC",
+      "Cores: 4 to 25",
+      "Bend Radius: 7.5xD"
+    ],
+    "applications": [
+      "Robotics",
+      "CNC Machines",
+      "Automation Lines",
+      "Pick and Place"
+    ],
+    "image": "/images/control-cable/06.jpg",
+    "price": "₹58/meter"
+  },
+  {
+    "id": 31,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "LSZH Control Cable",
+    "desc": "Low Smoke Zero Halogen sheathed control cable for enclosed areas",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Sheath: LSZH Compound",
+      "Insulation: XLPE",
+      "Cores: 2 to 19"
+    ],
+    "applications": [
+      "Metros",
+      "Airports",
+      "Tunnels",
+      "Shopping Malls"
+    ],
+    "image": "/images/control-cable/07.jpg",
+    "price": "₹70/meter"
+  },
+  {
+    "id": 32,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Pair Type Control Cable",
+    "desc": "Twisted pair type control cable for balanced signal transmission",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Type: Twisted Pairs",
+      "Pairs: 1 to 20",
+      "Screen: Individual + Overall"
+    ],
+    "applications": [
+      "Instrumentation",
+      "Signal Wiring",
+      "Analog Systems",
+      "Measurement"
+    ],
+    "image": "/images/control-cable/08.jpg",
+    "price": "₹60/meter"
+  },
+  {
+    "id": 33,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Multi-Pair Control Cable",
+    "desc": "Multi-pair screened control cable for complex control systems",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Pairs: 5 to 50",
+      "Screen: Aluminium Foil per Pair",
+      "Insulation: PE"
+    ],
+    "applications": [
+      "BMS Systems",
+      "HVAC Control",
+      "Building Automation",
+      "EMS"
+    ],
+    "image": "/images/control-cable/09.jpg",
+    "price": "₹80/meter"
+  },
+  {
+    "id": 34,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Triad Control Cable",
+    "desc": "Three conductor triad type cable for RTD temperature circuits",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Type: Triads",
+      "Triads: 1 to 12",
+      "Screen: Overall Aluminium Foil"
+    ],
+    "applications": [
+      "RTD Circuits",
+      "Temperature Monitoring",
+      "Process Industry",
+      "Pharma"
+    ],
+    "image": "/images/control-cable/10.jpg",
+    "price": "₹72/meter"
+  },
+  {
+    "id": 35,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Composite Control Cable",
+    "desc": "Combined power and control cable for single cable solution",
+    "specs": [
+      "Power Cores: 3+1",
+      "Control Cores: 4 to 12",
+      "Insulation: XLPE/PVC",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Motor Control Centers",
+      "VFD Systems",
+      "Pump Stations",
+      "HVAC"
+    ],
+    "image": "/images/control-cable/11.jpg",
+    "price": "₹110/meter"
+  },
+  {
+    "id": 36,
+    "category": "Control Cable",
+    "slug": "control-cable",
+    "color": "#45B7D1",
+    "name": "Railway Signalling Cable",
+    "desc": "Specialized control cable for railway signalling applications",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PE",
+      "Armour: Steel Tape",
+      "Cores: 2 to 24"
+    ],
+    "applications": [
+      "Railway Signalling",
+      "Track Circuits",
+      "Level Crossings",
+      "Station Control"
+    ],
+    "image": "/images/control-cable/12.jpg",
+    "price": "₹85/meter"
+  },
+  {
+    "id": 37,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "PVC Armoured Cable",
+    "desc": "Steel wire armoured PVC cable for underground installation",
+    "specs": [
+      "Conductor: Stranded Copper/Aluminium",
+      "Insulation: PVC",
+      "Armour: GI Wire",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Underground",
+      "Outdoor",
+      "Industrial",
+      "Power Distribution"
+    ],
+    "image": "/images/armoured-cable/01.jpg",
+    "price": "₹85/meter"
+  },
+  {
+    "id": 38,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "XLPE Armoured Cable",
+    "desc": "XLPE insulated steel wire armoured cable for heavy duty use",
+    "specs": [
+      "Conductor: Stranded Copper/Aluminium",
+      "Insulation: XLPE",
+      "Armour: GI Wire",
+      "Voltage: 1.1KV to 33KV"
+    ],
+    "applications": [
+      "Power Plants",
+      "Substations",
+      "Mining",
+      "Railways"
+    ],
+    "image": "/images/armoured-cable/02.jpg",
+    "price": "₹120/meter"
+  },
+  {
+    "id": 39,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "3.5 Core Armoured Cable",
+    "desc": "Three and half core armoured cable for 3-phase power supply",
+    "specs": [
+      "Cores: 3.5 Core",
+      "Conductor: Aluminium",
+      "Insulation: PVC/XLPE",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Main Power Supply",
+      "Industrial Feeders",
+      "DG Sets",
+      "Transformer Connection"
+    ],
+    "image": "/images/armoured-cable/03.jpg",
+    "price": "₹95/meter"
+  },
+  {
+    "id": 40,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "4 Core Armoured Cable",
+    "desc": "Four core armoured cable for 3-phase with neutral systems",
+    "specs": [
+      "Cores: 4 Core",
+      "Conductor: Copper/Aluminium",
+      "Insulation: XLPE",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Power Distribution",
+      "Sub-Main Wiring",
+      "Motor Feeders",
+      "Panel Feeders"
+    ],
+    "image": "/images/armoured-cable/04.jpg",
+    "price": "₹105/meter"
+  },
+  {
+    "id": 41,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "Single Core Armoured Cable",
+    "desc": "Single core XLPE armoured cable for high current applications",
+    "specs": [
+      "Core: Single Core",
+      "Conductor: Aluminium",
+      "Armour: Aluminium Wire",
+      "Size: 25 to 1000 Sq.mm"
+    ],
+    "applications": [
+      "HT Systems",
+      "Substations",
+      "Underground Feeders",
+      "Power Grid"
+    ],
+    "image": "/images/armoured-cable/05.jpg",
+    "price": "₹150/meter"
+  },
+  {
+    "id": 42,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "HT Armoured Cable",
+    "desc": "High tension XLPE insulated armoured cable for primary distribution",
+    "specs": [
+      "Conductor: Stranded Copper/Aluminium",
+      "Insulation: XLPE",
+      "Voltage: 3.3KV to 33KV",
+      "Screen: Copper Tape"
+    ],
+    "applications": [
+      "HT Distribution",
+      "Grid Substations",
+      "Wind Farms",
+      "Solar Parks"
+    ],
+    "image": "/images/armoured-cable/06.jpg",
+    "price": "₹250/meter"
+  },
+  {
+    "id": 43,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "Steel Tape Armoured Cable",
+    "desc": "Double steel tape armoured cable for direct burial",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Armour: Double Steel Tape",
+      "Insulation: PVC",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Direct Burial",
+      "Trench Laying",
+      "Road Crossings",
+      "Railway Crossings"
+    ],
+    "image": "/images/armoured-cable/07.jpg",
+    "price": "₹100/meter"
+  },
+  {
+    "id": 44,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "Aluminium Armoured Cable",
+    "desc": "Aluminium strip armoured cable for lightweight installations",
+    "specs": [
+      "Conductor: Aluminium",
+      "Armour: Aluminium Strip",
+      "Insulation: XLPE",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Building Wiring",
+      "Riser Cables",
+      "Residential Complexes",
+      "Commercial Buildings"
+    ],
+    "image": "/images/armoured-cable/08.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 45,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "FR Armoured Cable",
+    "desc": "Flame retardant armoured cable with enhanced fire performance",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: FR XLPE",
+      "Armour: GI Wire",
+      "Fire Test: IEC 60332"
+    ],
+    "applications": [
+      "High Rise Buildings",
+      "Hospitals",
+      "Data Centers",
+      "Shopping Malls"
+    ],
+    "image": "/images/armoured-cable/09.jpg",
+    "price": "₹130/meter"
+  },
+  {
+    "id": 46,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "Mining Armoured Cable",
+    "desc": "Heavy duty double armoured cable for mining applications",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Armour: Double GI Wire",
+      "Insulation: XLPE",
+      "Voltage: 1.1KV to 11KV"
+    ],
+    "applications": [
+      "Underground Mining",
+      "Open Cast Mines",
+      "Quarries",
+      "Coal Mines"
+    ],
+    "image": "/images/armoured-cable/10.jpg",
+    "price": "₹180/meter"
+  },
+  {
+    "id": 47,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "Marine Armoured Cable",
+    "desc": "Marine grade armoured cable for shipboard installations",
+    "specs": [
+      "Conductor: Tinned Copper",
+      "Armour: Galvanized Steel Braid",
+      "Insulation: XLPE",
+      "Class: IRS Approved"
+    ],
+    "applications": [
+      "Ships",
+      "Offshore Platforms",
+      "Ports",
+      "Docks"
+    ],
+    "image": "/images/armoured-cable/11.jpg",
+    "price": "₹200/meter"
+  },
+  {
+    "id": 48,
+    "category": "Armoured Cable",
+    "slug": "armoured-cable",
+    "color": "#96CEB4",
+    "name": "Pilot Cable",
+    "desc": "Multi-core armoured pilot cable for protection and control",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 7 to 37",
+      "Armour: Steel Tape",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Relay Protection",
+      "Telecom in Substations",
+      "PLCC Systems",
+      "Utility Control"
+    ],
+    "image": "/images/armoured-cable/12.jpg",
+    "price": "₹90/meter"
+  },
+  {
+    "id": 49,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "DC Solar Cable",
+    "desc": "UV resistant double insulated solar cable for PV systems",
+    "specs": [
+      "Conductor: Tinned Copper",
+      "Insulation: XLPE + EVA",
+      "Voltage: 1800V DC",
+      "Temp: -40°C to 90°C"
+    ],
+    "applications": [
+      "Solar Panels",
+      "Inverters",
+      "Solar Farms",
+      "Rooftop Solar"
+    ],
+    "image": "/images/solar-cable/01.jpg",
+    "price": "₹25/meter"
+  },
+  {
+    "id": 50,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "AC Solar Cable",
+    "desc": "FRLS PVC insulated cable for AC side of solar systems",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: FRLS PVC",
+      "Voltage: 1100V AC",
+      "UV Resistant"
+    ],
+    "applications": [
+      "Solar Inverter Output",
+      "Grid Connection",
+      "Solar Plants",
+      "Hybrid Systems"
+    ],
+    "image": "/images/solar-cable/02.jpg",
+    "price": "₹30/meter"
+  },
+  {
+    "id": 51,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar DC 4mm Cable",
+    "desc": "4 sq mm single core DC solar cable with TUV certification",
+    "specs": [
+      "Size: 4 Sq.mm",
+      "Conductor: Tinned Copper",
+      "Voltage: 1500V DC",
+      "Certification: TUV"
+    ],
+    "applications": [
+      "Residential Solar",
+      "Small Commercial",
+      "String Inverters",
+      "Module Connection"
+    ],
+    "image": "/images/solar-cable/03.jpg",
+    "price": "₹18/meter"
+  },
+  {
+    "id": 52,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar DC 6mm Cable",
+    "desc": "6 sq mm DC solar cable for longer string connections",
+    "specs": [
+      "Size: 6 Sq.mm",
+      "Conductor: Tinned Copper",
+      "Voltage: 1800V DC",
+      "Life: 25+ Years"
+    ],
+    "applications": [
+      "Commercial Solar",
+      "Solar Farms",
+      "Long String Runs",
+      "Array Wiring"
+    ],
+    "image": "/images/solar-cable/04.jpg",
+    "price": "₹24/meter"
+  },
+  {
+    "id": 53,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar DC 10mm Cable",
+    "desc": "10 sq mm heavy duty DC cable for high current solar arrays",
+    "specs": [
+      "Size: 10 Sq.mm",
+      "Conductor: Tinned Copper",
+      "Voltage: 1800V DC",
+      "Current: 70A"
+    ],
+    "applications": [
+      "Large Solar Farms",
+      "Combiner Boxes",
+      "Central Inverters",
+      "Utility Scale"
+    ],
+    "image": "/images/solar-cable/05.jpg",
+    "price": "₹35/meter"
+  },
+  {
+    "id": 54,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar Aluminium Cable",
+    "desc": "Aluminium conductor solar cable for cost effective installations",
+    "specs": [
+      "Conductor: Aluminium",
+      "Insulation: XLPE",
+      "Voltage: 1100V",
+      "Size: 16 to 120 Sq.mm"
+    ],
+    "applications": [
+      "AC Main Lines",
+      "Transformer Connection",
+      "Large Ground Mount",
+      "Solar Parks"
+    ],
+    "image": "/images/solar-cable/06.jpg",
+    "price": "₹15/meter"
+  },
+  {
+    "id": 55,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar Flexible Cable",
+    "desc": "Extra flexible solar cable for tracker system installations",
+    "specs": [
+      "Conductor: Extra Fine Tinned Copper",
+      "Insulation: Double XLPE",
+      "Flex Life: High",
+      "UV Resistant"
+    ],
+    "applications": [
+      "Solar Trackers",
+      "Moving Panels",
+      "Floating Solar",
+      "Rooftop Racks"
+    ],
+    "image": "/images/solar-cable/07.jpg",
+    "price": "₹32/meter"
+  },
+  {
+    "id": 56,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar Battery Cable",
+    "desc": "Heavy gauge flexible cable for solar battery bank connections",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: Rubber",
+      "Size: 16 to 70 Sq.mm",
+      "Voltage: 600V DC"
+    ],
+    "applications": [
+      "Battery Banks",
+      "Inverter Connection",
+      "Off-Grid Solar",
+      "Hybrid Storage"
+    ],
+    "image": "/images/solar-cable/08.jpg",
+    "price": "₹55/meter"
+  },
+  {
+    "id": 57,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar Earthing Cable",
+    "desc": "Green-yellow solar earthing cable for PV system grounding",
+    "specs": [
+      "Conductor: Bare/Tinned Copper",
+      "Insulation: Green-Yellow PVC",
+      "Size: 4 to 16 Sq.mm",
+      "UV Resistant"
+    ],
+    "applications": [
+      "Panel Grounding",
+      "Inverter Earthing",
+      "Array Earthing",
+      "Lightning Protection"
+    ],
+    "image": "/images/solar-cable/09.jpg",
+    "price": "₹12/meter"
+  },
+  {
+    "id": 58,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar Harness Cable",
+    "desc": "Pre-assembled solar cable harness with MC4 connectors",
+    "specs": [
+      "Connector: MC4 Compatible",
+      "Cable: 4mm/6mm DC",
+      "Length: Custom",
+      "Plug and Play"
+    ],
+    "applications": [
+      "Quick Installation",
+      "Rooftop Solar",
+      "Portable Solar",
+      "DIY Solar Kits"
+    ],
+    "image": "/images/solar-cable/10.jpg",
+    "price": "₹45/meter"
+  },
+  {
+    "id": 59,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar Submersible Cable",
+    "desc": "Solar DC powered submersible pump cable for agriculture",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: PVC",
+      "Voltage: 1500V DC",
+      "Cores: 3 Core"
+    ],
+    "applications": [
+      "Solar Water Pumps",
+      "Agriculture Irrigation",
+      "Remote Pumping",
+      "Village Water Supply"
+    ],
+    "image": "/images/solar-cable/11.jpg",
+    "price": "₹38/meter"
+  },
+  {
+    "id": 60,
+    "category": "Solar Cable",
+    "slug": "solar-cable",
+    "color": "#FFEAA7",
+    "name": "Solar String Cable",
+    "desc": "Lightweight single core cable for module to module connection",
+    "specs": [
+      "Size: 2.5 Sq.mm",
+      "Conductor: Tinned Copper",
+      "Voltage: 1500V DC",
+      "Halogen Free"
+    ],
+    "applications": [
+      "Module Interconnect",
+      "Small Solar Kits",
+      "String Wiring",
+      "Junction Boxes"
+    ],
+    "image": "/images/solar-cable/12.jpg",
+    "price": "₹14/meter"
+  },
+  {
+    "id": 61,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "Instrumentation Cable",
+    "desc": "Overall and individually shielded cable for signal transmission",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PVC/XLPE",
+      "Shield: Aluminium Foil",
+      "Pairs: 1 to 20"
+    ],
+    "applications": [
+      "Process Control",
+      "DCS Systems",
+      "PLC Systems",
+      "Oil and Gas"
+    ],
+    "image": "/images/instrumentation-cable/01.jpg",
+    "price": "₹55/meter"
+  },
+  {
+    "id": 62,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "Thermocouple Cable",
+    "desc": "Compensating and extension cable for temperature measurement",
+    "specs": [
+      "Conductor: Thermocouple Alloy",
+      "Insulation: PVC/PTFE",
+      "Temp: -20°C to 200°C",
+      "Types: J K T E R S"
+    ],
+    "applications": [
+      "Temperature Measurement",
+      "Furnaces",
+      "Boilers",
+      "Chemical Plants"
+    ],
+    "image": "/images/instrumentation-cable/02.jpg",
+    "price": "₹70/meter"
+  },
+  {
+    "id": 63,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "RTD Cable",
+    "desc": "Three wire RTD extension cable for resistance temperature detectors",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Cores: 3 Wire",
+      "Screen: Aluminium Foil",
+      "Insulation: PVC/PTFE"
+    ],
+    "applications": [
+      "RTD Sensors",
+      "Temperature Control",
+      "HVAC Systems",
+      "Pharma"
+    ],
+    "image": "/images/instrumentation-cable/03.jpg",
+    "price": "₹48/meter"
+  },
+  {
+    "id": 64,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "Fieldbus Cable",
+    "desc": "Foundation Fieldbus Type A cable for process automation",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Shield: Braid + Foil",
+      "Type: FF-A IEC 61158",
+      "Impedance: 100 Ohm"
+    ],
+    "applications": [
+      "Foundation Fieldbus",
+      "Process Automation",
+      "DCS Networks",
+      "Refineries"
+    ],
+    "image": "/images/instrumentation-cable/04.jpg",
+    "price": "₹85/meter"
+  },
+  {
+    "id": 65,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "Profibus Cable",
+    "desc": "Profibus DP cable for high speed industrial communication",
+    "specs": [
+      "Conductor: Solid Copper",
+      "Shield: Braid + Foil",
+      "Type: Profibus DP",
+      "Speed: 12 Mbps"
+    ],
+    "applications": [
+      "Profibus Networks",
+      "PLC Communication",
+      "Factory Automation",
+      "Robotics"
+    ],
+    "image": "/images/instrumentation-cable/05.jpg",
+    "price": "₹90/meter"
+  },
+  {
+    "id": 66,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "4-20mA Signal Cable",
+    "desc": "Individually screened pair cable for 4-20mA analog signals",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Pairs: 1 to 12",
+      "Screen: Individual Foil per Pair",
+      "Insulation: PE"
+    ],
+    "applications": [
+      "Transmitters",
+      "Analyzers",
+      "Level Sensors",
+      "Flow Meters"
+    ],
+    "image": "/images/instrumentation-cable/06.jpg",
+    "price": "₹52/meter"
+  },
+  {
+    "id": 67,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "Modbus Cable",
+    "desc": "RS485 Modbus communication cable for industrial networks",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Type: RS485 Compatible",
+      "Shield: Braid + Foil",
+      "Impedance: 120 Ohm"
+    ],
+    "applications": [
+      "Modbus Networks",
+      "Building Automation",
+      "Energy Meters",
+      "SCADA"
+    ],
+    "image": "/images/instrumentation-cable/07.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 68,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "Multipair Instrumentation Cable",
+    "desc": "High pair count instrumentation cable for large process plants",
+    "specs": [
+      "Pairs: 10 to 50",
+      "Conductor: Copper",
+      "Screen: Overall + Individual",
+      "Armour: Steel Tape"
+    ],
+    "applications": [
+      "Refineries",
+      "Petrochemical",
+      "Fertilizer Plants",
+      "Power Plants"
+    ],
+    "image": "/images/instrumentation-cable/08.jpg",
+    "price": "₹120/meter"
+  },
+  {
+    "id": 69,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "Fire Resistant Instrumentation Cable",
+    "desc": "Mica wrapped fire resistant instrumentation cable",
+    "specs": [
+      "Conductor: Copper",
+      "Fire Barrier: Mica Tape",
+      "Fire Rating: 3 Hours",
+      "Screen: Aluminium Foil"
+    ],
+    "applications": [
+      "Emergency Shutdown",
+      "Fire Detection",
+      "Critical Instrumentation",
+      "Safety Systems"
+    ],
+    "image": "/images/instrumentation-cable/09.jpg",
+    "price": "₹95/meter"
+  },
+  {
+    "id": 70,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "PE Insulated Instrumentation Cable",
+    "desc": "Polyethylene insulated cable for superior signal integrity",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: PE",
+      "Shield: Foil + Drain Wire",
+      "Pairs: 1 to 24"
+    ],
+    "applications": [
+      "Telecom in Plants",
+      "Signal Transmission",
+      "Measurement",
+      "Data Logging"
+    ],
+    "image": "/images/instrumentation-cable/10.jpg",
+    "price": "₹58/meter"
+  },
+  {
+    "id": 71,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "PTFE Instrumentation Cable",
+    "desc": "PTFE insulated cable for extreme temperature environments",
+    "specs": [
+      "Conductor: Silver Plated Copper",
+      "Insulation: PTFE",
+      "Temp: -65°C to 250°C",
+      "Shield: SS Braid"
+    ],
+    "applications": [
+      "Furnaces",
+      "Cryogenic",
+      "Aerospace",
+      "Nuclear"
+    ],
+    "image": "/images/instrumentation-cable/11.jpg",
+    "price": "₹180/meter"
+  },
+  {
+    "id": 72,
+    "category": "Instrumentation Cable",
+    "slug": "instrumentation-cable",
+    "color": "#DDA0DD",
+    "name": "Armoured Instrumentation Cable",
+    "desc": "Steel wire armoured instrumentation cable for outdoor use",
+    "specs": [
+      "Conductor: Copper",
+      "Armour: GI Wire",
+      "Screen: Overall Aluminium Foil",
+      "Pairs: 1 to 24"
+    ],
+    "applications": [
+      "Outdoor Process Plants",
+      "Underground",
+      "Substations",
+      "Tank Farms"
+    ],
+    "image": "/images/instrumentation-cable/12.jpg",
+    "price": "₹100/meter"
+  },
+  {
+    "id": 73,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "LT Power Cable",
+    "desc": "Low tension XLPE insulated PVC sheathed power cable",
+    "specs": [
+      "Conductor: Copper/Aluminium",
+      "Insulation: XLPE",
+      "Voltage: Up to 1.1KV",
+      "Size: 1.5 to 400 Sq.mm"
+    ],
+    "applications": [
+      "Power Distribution",
+      "Industrial",
+      "Commercial",
+      "Infrastructure"
+    ],
+    "image": "/images/power-cable/01.jpg",
+    "price": "₹75/meter"
+  },
+  {
+    "id": 74,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "HT Power Cable",
+    "desc": "High tension XLPE insulated cable for primary distribution",
+    "specs": [
+      "Conductor: Copper/Aluminium",
+      "Insulation: XLPE",
+      "Voltage: 3.3KV to 33KV",
+      "Size: 25 to 630 Sq.mm"
+    ],
+    "applications": [
+      "Grid Substations",
+      "Power Plants",
+      "Industries",
+      "Smart Cities"
+    ],
+    "image": "/images/power-cable/02.jpg",
+    "price": "₹200/meter"
+  },
+  {
+    "id": 75,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "LT PVC Power Cable",
+    "desc": "PVC insulated and sheathed low tension power cable",
+    "specs": [
+      "Conductor: Copper/Aluminium",
+      "Insulation: PVC",
+      "Voltage: 1100V",
+      "Cores: 1 to 4"
+    ],
+    "applications": [
+      "Building Wiring",
+      "General Power",
+      "Lighting Circuits",
+      "Small Motors"
+    ],
+    "image": "/images/power-cable/03.jpg",
+    "price": "₹55/meter"
+  },
+  {
+    "id": 76,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "Medium Voltage Cable",
+    "desc": "Medium voltage XLPE cable for distribution networks",
+    "specs": [
+      "Conductor: Copper/Aluminium",
+      "Insulation: XLPE",
+      "Voltage: 6.6KV to 11KV",
+      "Screen: Copper Tape"
+    ],
+    "applications": [
+      "Urban Distribution",
+      "Industrial Plants",
+      "Wind Farms",
+      "Mining"
+    ],
+    "image": "/images/power-cable/04.jpg",
+    "price": "₹180/meter"
+  },
+  {
+    "id": 77,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "EHV Power Cable",
+    "desc": "Extra high voltage cable for transmission systems",
+    "specs": [
+      "Conductor: Compacted Copper",
+      "Insulation: XLPE",
+      "Voltage: 66KV to 220KV",
+      "Screen: Copper Wire"
+    ],
+    "applications": [
+      "Underground Transmission",
+      "City Power Grid",
+      "Submarine Crossings",
+      "Tunnel Systems"
+    ],
+    "image": "/images/power-cable/05.jpg",
+    "price": "₹500/meter"
+  },
+  {
+    "id": 78,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "Aerial Bunched Cable",
+    "desc": "Insulated overhead aerial bunched cable for distribution",
+    "specs": [
+      "Conductor: Aluminium",
+      "Insulation: XLPE",
+      "Type: ABC 3+1",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Overhead Distribution",
+      "Rural Electrification",
+      "Street Lighting",
+      "Anti-Theft Lines"
+    ],
+    "image": "/images/power-cable/06.jpg",
+    "price": "₹28/meter"
+  },
+  {
+    "id": 79,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "Unarmoured Power Cable",
+    "desc": "XLPE insulated unarmoured cable for indoor installations",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: XLPE",
+      "Sheath: PVC",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Indoor Wiring",
+      "Cable Trays",
+      "Riser Cables",
+      "Panel Connections"
+    ],
+    "image": "/images/power-cable/07.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 80,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "Aluminium Power Cable",
+    "desc": "Aluminium conductor XLPE insulated cable for cost savings",
+    "specs": [
+      "Conductor: Aluminium",
+      "Insulation: XLPE",
+      "Voltage: 1100V",
+      "Size: 16 to 400 Sq.mm"
+    ],
+    "applications": [
+      "Main Power Lines",
+      "Distribution Feeders",
+      "Transformer Connection",
+      "Street Lighting"
+    ],
+    "image": "/images/power-cable/08.jpg",
+    "price": "₹35/meter"
+  },
+  {
+    "id": 81,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "Copper Power Cable",
+    "desc": "Copper conductor premium power cable for critical loads",
+    "specs": [
+      "Conductor: Electrolytic Copper",
+      "Insulation: XLPE",
+      "Voltage: 1100V",
+      "Size: 1.5 to 630 Sq.mm"
+    ],
+    "applications": [
+      "Data Centers",
+      "Hospitals",
+      "Premium Buildings",
+      "Critical Infrastructure"
+    ],
+    "image": "/images/power-cable/09.jpg",
+    "price": "₹120/meter"
+  },
+  {
+    "id": 82,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "Fire Resistant Power Cable",
+    "desc": "Mica taped XLPE fire resistant power cable for safety",
+    "specs": [
+      "Conductor: Copper",
+      "Fire Barrier: Mica Tape",
+      "Insulation: FR XLPE",
+      "Fire Rating: 3 Hours at 950°C"
+    ],
+    "applications": [
+      "Fire Pump Circuits",
+      "Emergency Power",
+      "Hospital Essential",
+      "Nuclear Plants"
+    ],
+    "image": "/images/power-cable/10.jpg",
+    "price": "₹160/meter"
+  },
+  {
+    "id": 83,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "LSZH Power Cable",
+    "desc": "Low Smoke Zero Halogen power cable for enclosed spaces",
+    "specs": [
+      "Conductor: Copper",
+      "Sheath: LSZH",
+      "Insulation: XLPE",
+      "Smoke: Very Low"
+    ],
+    "applications": [
+      "Metros",
+      "Airports",
+      "Tunnels",
+      "Ships"
+    ],
+    "image": "/images/power-cable/11.jpg",
+    "price": "₹140/meter"
+  },
+  {
+    "id": 84,
+    "category": "Power Cable",
+    "slug": "power-cable",
+    "color": "#FF8C94",
+    "name": "Screened Power Cable",
+    "desc": "Copper tape screened power cable for VFD applications",
+    "specs": [
+      "Conductor: Copper",
+      "Screen: Copper Tape",
+      "Insulation: XLPE",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "VFD Motor Feeds",
+      "Servo Drives",
+      "Sensitive Equipment",
+      "EMC Zones"
+    ],
+    "image": "/images/power-cable/12.jpg",
+    "price": "₹130/meter"
+  },
+  {
+    "id": 85,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "RG6 Coaxial Cable",
+    "desc": "75 Ohm RG6 cable for CCTV and cable TV distribution",
+    "specs": [
+      "Conductor: Copper Clad Steel",
+      "Insulation: PE Foam",
+      "Shield: Aluminium Foil + Braid",
+      "Impedance: 75 Ohm"
+    ],
+    "applications": [
+      "CCTV Systems",
+      "Cable TV",
+      "Satellite TV",
+      "MATV Systems"
+    ],
+    "image": "/images/coaxial-cable/01.jpg",
+    "price": "₹12/meter"
+  },
+  {
+    "id": 86,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "RG11 Coaxial Cable",
+    "desc": "Low loss RG11 cable for long distance CATV distribution",
+    "specs": [
+      "Conductor: Copper Clad Steel",
+      "Insulation: PE Foam",
+      "Shield: Tri-Shield",
+      "Loss: Very Low"
+    ],
+    "applications": [
+      "Trunk Lines",
+      "Long Distance CATV",
+      "Headend Connection",
+      "Distribution Amplifiers"
+    ],
+    "image": "/images/coaxial-cable/02.jpg",
+    "price": "₹18/meter"
+  },
+  {
+    "id": 87,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "RG59 Coaxial Cable",
+    "desc": "Standard RG59 cable for short run CCTV and video",
+    "specs": [
+      "Conductor: Bare Copper",
+      "Insulation: PE",
+      "Shield: Aluminium Foil + Braid",
+      "Impedance: 75 Ohm"
+    ],
+    "applications": [
+      "Short Run CCTV",
+      "Video Surveillance",
+      "DVR Connection",
+      "Monitor Links"
+    ],
+    "image": "/images/coaxial-cable/03.jpg",
+    "price": "₹8/meter"
+  },
+  {
+    "id": 88,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "RG58 Coaxial Cable",
+    "desc": "50 Ohm RG58 cable for radio and antenna connections",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PE",
+      "Shield: Copper Braid",
+      "Impedance: 50 Ohm"
+    ],
+    "applications": [
+      "Radio Systems",
+      "WiFi Antenna",
+      "Ham Radio",
+      "Test Equipment"
+    ],
+    "image": "/images/coaxial-cable/04.jpg",
+    "price": "₹10/meter"
+  },
+  {
+    "id": 89,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "Triaxial Cable",
+    "desc": "Triple shielded coaxial cable for broadcast applications",
+    "specs": [
+      "Conductor: Bare Copper",
+      "Insulation: PE",
+      "Shield: Triple Layer",
+      "Impedance: 50/75 Ohm"
+    ],
+    "applications": [
+      "Broadcasting",
+      "Medical Equipment",
+      "Test Labs",
+      "Defence"
+    ],
+    "image": "/images/coaxial-cable/05.jpg",
+    "price": "₹35/meter"
+  },
+  {
+    "id": 90,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "CCTV Cable 3+1",
+    "desc": "Composite CCTV cable with power and video in single jacket",
+    "specs": [
+      "Video: RG59 Type",
+      "Power: 2x0.5mm",
+      "Cores: 3+1",
+      "Sheath: PVC"
+    ],
+    "applications": [
+      "CCTV Installation",
+      "Security Systems",
+      "IP Camera Power",
+      "Surveillance"
+    ],
+    "image": "/images/coaxial-cable/06.jpg",
+    "price": "₹15/meter"
+  },
+  {
+    "id": 91,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "Semi-Rigid Coaxial Cable",
+    "desc": "Solid outer conductor semi-rigid cable for RF applications",
+    "specs": [
+      "Conductor: Silver Plated Copper",
+      "Outer: Solid Copper Tube",
+      "Insulation: PTFE",
+      "Freq: Up to 18 GHz"
+    ],
+    "applications": [
+      "RF Equipment",
+      "Telecom Towers",
+      "Microwave Links",
+      "Antenna Feeders"
+    ],
+    "image": "/images/coaxial-cable/07.jpg",
+    "price": "₹120/meter"
+  },
+  {
+    "id": 92,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "Low Loss Coaxial Cable",
+    "desc": "Premium low loss cable for wireless and telecom base stations",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: Foam PE",
+      "Shield: Corrugated Copper",
+      "Loss: Ultra Low"
+    ],
+    "applications": [
+      "Cell Towers",
+      "5G Base Stations",
+      "WiFi Access Points",
+      "DAS Systems"
+    ],
+    "image": "/images/coaxial-cable/08.jpg",
+    "price": "₹85/meter"
+  },
+  {
+    "id": 93,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "Quad Shield Coaxial Cable",
+    "desc": "Four layer shielded cable for maximum interference rejection",
+    "specs": [
+      "Conductor: Copper Clad Steel",
+      "Shield: 4 Layer",
+      "Insulation: PE Foam",
+      "Shielding: >90dB"
+    ],
+    "applications": [
+      "High EMI Areas",
+      "Industrial CCTV",
+      "Near Power Lines",
+      "Hospitals"
+    ],
+    "image": "/images/coaxial-cable/09.jpg",
+    "price": "₹22/meter"
+  },
+  {
+    "id": 94,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "Flexible Coaxial Cable",
+    "desc": "Highly flexible coaxial cable for mobile broadcast equipment",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PE Foam",
+      "Shield: Copper Braid",
+      "Flex Life: High"
+    ],
+    "applications": [
+      "OB Vans",
+      "Studio Equipment",
+      "Stage Shows",
+      "Live Events"
+    ],
+    "image": "/images/coaxial-cable/10.jpg",
+    "price": "₹45/meter"
+  },
+  {
+    "id": 95,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "Fire Resistant Coaxial Cable",
+    "desc": "FR rated coaxial cable for fire alarm and safety CCTV",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: FR PE",
+      "Sheath: FR PVC",
+      "Fire: IEC 60332"
+    ],
+    "applications": [
+      "Fire Alarm CCTV",
+      "Emergency Systems",
+      "Hospitals",
+      "High Rise Buildings"
+    ],
+    "image": "/images/coaxial-cable/11.jpg",
+    "price": "₹28/meter"
+  },
+  {
+    "id": 96,
+    "category": "Coaxial Cable",
+    "slug": "coaxial-cable",
+    "color": "#A8E6CF",
+    "name": "Composite Coaxial Cable",
+    "desc": "Multi-coax composite cable for large surveillance systems",
+    "specs": [
+      "Type: Multi RG59",
+      "Coax: 2 to 8 in One",
+      "Power: Integrated",
+      "Sheath: PVC"
+    ],
+    "applications": [
+      "Large CCTV Projects",
+      "City Surveillance",
+      "Highway Monitoring",
+      "Smart City"
+    ],
+    "image": "/images/coaxial-cable/12.jpg",
+    "price": "₹40/meter"
+  },
+  {
+    "id": 97,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Survival Cable 2C",
+    "desc": "2 core fire survival cable maintaining circuit integrity for 3 hours",
+    "specs": [
+      "Cores: 2 Core",
+      "Fire Rating: 3 Hours at 950°C",
+      "Insulation: Mica + XLPE",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Fire Alarms",
+      "Emergency Lighting",
+      "Sprinkler Systems",
+      "PA Systems"
+    ],
+    "image": "/images/fire-survival-cable/01.jpg",
+    "price": "₹75/meter"
+  },
+  {
+    "id": 98,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Survival Cable 4C",
+    "desc": "4 core fire survival cable for fire detection and alarm systems",
+    "specs": [
+      "Cores: 4 Core",
+      "Fire Rating: 3 Hours at 950°C",
+      "Insulation: Mica + XLPE",
+      "Sheath: LSZH"
+    ],
+    "applications": [
+      "Fire Detection",
+      "Smoke Detectors",
+      "Manual Call Points",
+      "Control Panels"
+    ],
+    "image": "/images/fire-survival-cable/02.jpg",
+    "price": "₹95/meter"
+  },
+  {
+    "id": 99,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Enhanced FR Cable",
+    "desc": "Enhanced fire resistant cable with LSZH sheath for metros",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Fire Barrier: Double Mica",
+      "Sheath: LSZH",
+      "IEC 60331 Certified"
+    ],
+    "applications": [
+      "Metros",
+      "Airports",
+      "Hospitals",
+      "High Rise Buildings"
+    ],
+    "image": "/images/fire-survival-cable/03.jpg",
+    "price": "₹110/meter"
+  },
+  {
+    "id": 100,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Survival Armoured Cable",
+    "desc": "Steel wire armoured fire survival cable for outdoor critical circuits",
+    "specs": [
+      "Conductor: Copper",
+      "Armour: GI Wire",
+      "Fire Rating: 3 Hours",
+      "Cores: 2 to 4"
+    ],
+    "applications": [
+      "Underground Emergency",
+      "Outdoor Fire Systems",
+      "Industrial Fire Safety",
+      "Power Plants"
+    ],
+    "image": "/images/fire-survival-cable/04.jpg",
+    "price": "₹140/meter"
+  },
+  {
+    "id": 101,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Alarm Cable 1.5mm",
+    "desc": "1.5 sq mm fire rated cable for conventional fire alarm loops",
+    "specs": [
+      "Size: 1.5 Sq.mm",
+      "Cores: 2 Core",
+      "Fire: BS 6387 CWZ",
+      "Sheath: Red LSZH"
+    ],
+    "applications": [
+      "Conventional Fire Alarm",
+      "Zone Wiring",
+      "Detector Loops",
+      "MCP Wiring"
+    ],
+    "image": "/images/fire-survival-cable/05.jpg",
+    "price": "₹60/meter"
+  },
+  {
+    "id": 102,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Alarm Cable 2.5mm",
+    "desc": "2.5 sq mm fire rated cable for addressable fire alarm systems",
+    "specs": [
+      "Size: 2.5 Sq.mm",
+      "Cores: 2 Core",
+      "Fire: IEC 60331",
+      "Screen: Overall Foil"
+    ],
+    "applications": [
+      "Addressable Fire Alarm",
+      "SLC Loops",
+      "Network Wiring",
+      "Fire Panels"
+    ],
+    "image": "/images/fire-survival-cable/06.jpg",
+    "price": "₹78/meter"
+  },
+  {
+    "id": 103,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Resistant Speaker Cable",
+    "desc": "Fire rated speaker cable for emergency PA voice evacuation",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 2 Core",
+      "Fire: 3 Hours",
+      "Size: 1.5/2.5 Sq.mm"
+    ],
+    "applications": [
+      "Voice Evacuation",
+      "Emergency PA",
+      "Public Address",
+      "Announcement Systems"
+    ],
+    "image": "/images/fire-survival-cable/07.jpg",
+    "price": "₹85/meter"
+  },
+  {
+    "id": 104,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Resistant Data Cable",
+    "desc": "Fire rated Category 6 cable for emergency data communication",
+    "specs": [
+      "Type: Cat6 UTP",
+      "Fire: IEC 60331",
+      "Conductor: Copper",
+      "Sheath: LSZH"
+    ],
+    "applications": [
+      "Emergency Data Links",
+      "Fire Command Centers",
+      "BMS Fire Network",
+      "Critical IT"
+    ],
+    "image": "/images/fire-survival-cable/08.jpg",
+    "price": "₹95/meter"
+  },
+  {
+    "id": 105,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Mineral Insulated Cable",
+    "desc": "Copper sheathed mineral insulated cable for extreme fire safety",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: Magnesium Oxide",
+      "Sheath: Copper Tube",
+      "Fire: Indefinite"
+    ],
+    "applications": [
+      "Nuclear Plants",
+      "Petrochemical",
+      "Tunnels",
+      "Heritage Buildings"
+    ],
+    "image": "/images/fire-survival-cable/09.jpg",
+    "price": "₹250/meter"
+  },
+  {
+    "id": 106,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Barrier Cable",
+    "desc": "Mica glass tape fire barrier cable for 2 hour fire rating",
+    "specs": [
+      "Conductor: Copper",
+      "Barrier: Mica Glass Tape",
+      "Fire: 2 Hours",
+      "Insulation: XLPE"
+    ],
+    "applications": [
+      "Staircase Lighting",
+      "Elevator Power",
+      "Fire Pump Feeders",
+      "Refuge Areas"
+    ],
+    "image": "/images/fire-survival-cable/10.jpg",
+    "price": "₹90/meter"
+  },
+  {
+    "id": 107,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Zero Halogen Fire Cable",
+    "desc": "Zero halogen fire survival cable with minimal toxic emissions",
+    "specs": [
+      "Conductor: Copper",
+      "Sheath: Zero Halogen",
+      "Fire: 3 Hours",
+      "Smoke: IEC 61034"
+    ],
+    "applications": [
+      "Hospitals",
+      "Schools",
+      "Theatres",
+      "Underground Stations"
+    ],
+    "image": "/images/fire-survival-cable/11.jpg",
+    "price": "₹105/meter"
+  },
+  {
+    "id": 108,
+    "category": "Fire Survival Cable",
+    "slug": "fire-survival-cable",
+    "color": "#FFB347",
+    "name": "Fire Rated Multicore Cable",
+    "desc": "Multi-core fire resistant cable for emergency control circuits",
+    "specs": [
+      "Cores: 4 to 19",
+      "Conductor: Copper",
+      "Fire: IEC 60331",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Emergency Generators",
+      "Fire Pump Control",
+      "Smoke Extraction",
+      "Damper Control"
+    ],
+    "image": "/images/fire-survival-cable/12.jpg",
+    "price": "₹130/meter"
+  },
+  {
+    "id": 109,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Submersible Pump Cable",
+    "desc": "Water resistant cable for submersible pump applications",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Insulation: PVC",
+      "Sheath: Water Resistant PVC",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Submersible Pumps",
+      "Borewell",
+      "Agriculture",
+      "Water Supply"
+    ],
+    "image": "/images/submersible-cable/01.jpg",
+    "price": "₹35/meter"
+  },
+  {
+    "id": 110,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Flat Submersible Cable",
+    "desc": "Three core flat cable for submersible motor connection",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Type: Flat 3 Core",
+      "Insulation: PVC",
+      "Size: 1.5 to 25 Sq.mm"
+    ],
+    "applications": [
+      "Domestic Borewells",
+      "Agricultural Pumps",
+      "Farm Irrigation",
+      "Water Tanks"
+    ],
+    "image": "/images/submersible-cable/02.jpg",
+    "price": "₹30/meter"
+  },
+  {
+    "id": 111,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Round Submersible Cable",
+    "desc": "Round profile submersible cable for easy borewell insertion",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Type: Round 3 Core",
+      "Insulation: PVC",
+      "Size: 2.5 to 50 Sq.mm"
+    ],
+    "applications": [
+      "Deep Borewells",
+      "Industrial Pumps",
+      "Municipal Water",
+      "Dewatering"
+    ],
+    "image": "/images/submersible-cable/03.jpg",
+    "price": "₹40/meter"
+  },
+  {
+    "id": 112,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Heavy Duty Submersible Cable",
+    "desc": "Extra heavy insulated cable for deep well applications",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: Double PVC",
+      "Depth: Up to 500m",
+      "Size: 6 to 70 Sq.mm"
+    ],
+    "applications": [
+      "Deep Wells",
+      "Mining Dewatering",
+      "Industrial Borewells",
+      "Geothermal"
+    ],
+    "image": "/images/submersible-cable/04.jpg",
+    "price": "₹60/meter"
+  },
+  {
+    "id": 113,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Stainless Steel Submersible Cable",
+    "desc": "SS wire armoured submersible cable for corrosive water",
+    "specs": [
+      "Conductor: Copper",
+      "Armour: SS Wire",
+      "Insulation: XLPE",
+      "Corrosion: Resistant"
+    ],
+    "applications": [
+      "Sea Water Pumps",
+      "Chemical Pumps",
+      "Effluent Pumps",
+      "Desalination"
+    ],
+    "image": "/images/submersible-cable/05.jpg",
+    "price": "₹120/meter"
+  },
+  {
+    "id": 114,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Solar Submersible Cable",
+    "desc": "DC rated submersible cable for solar powered pumps",
+    "specs": [
+      "Conductor: Copper",
+      "Voltage: 1500V DC",
+      "Insulation: PVC",
+      "Cores: 3 Core"
+    ],
+    "applications": [
+      "Solar Water Pumps",
+      "Agriculture",
+      "Remote Areas",
+      "Village Water Supply"
+    ],
+    "image": "/images/submersible-cable/06.jpg",
+    "price": "₹38/meter"
+  },
+  {
+    "id": 115,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "XLPE Submersible Cable",
+    "desc": "XLPE insulated submersible cable for higher temperature rating",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: XLPE",
+      "Temp: 90°C",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Hot Water Pumps",
+      "Industrial",
+      "Geothermal",
+      "Process Pumps"
+    ],
+    "image": "/images/submersible-cable/07.jpg",
+    "price": "₹48/meter"
+  },
+  {
+    "id": 116,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Submersible Winding Wire",
+    "desc": "Enamelled copper wire for submersible motor rewinding",
+    "specs": [
+      "Conductor: Pure Copper",
+      "Insulation: Polyester Enamel",
+      "Class: F (155°C)",
+      "Size: SWG 8 to 22"
+    ],
+    "applications": [
+      "Motor Rewinding",
+      "Submersible Motors",
+      "Pump Repair",
+      "Motor Manufacturing"
+    ],
+    "image": "/images/submersible-cable/08.jpg",
+    "price": "₹450/kg"
+  },
+  {
+    "id": 117,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Sewage Submersible Cable",
+    "desc": "Chemical resistant cable for sewage pump applications",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: XLPE",
+      "Sheath: Chemical Resistant",
+      "Cores: 3+1"
+    ],
+    "applications": [
+      "Sewage Pumps",
+      "STP Plants",
+      "Effluent Treatment",
+      "Municipal Sewage"
+    ],
+    "image": "/images/submersible-cable/09.jpg",
+    "price": "₹55/meter"
+  },
+  {
+    "id": 118,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Submersible Control Cable",
+    "desc": "Multi-core submersible cable for pump control and monitoring",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 4 to 7",
+      "Insulation: PVC",
+      "Water Resistant"
+    ],
+    "applications": [
+      "Level Sensors",
+      "Pump Control",
+      "Motor Protection",
+      "Monitoring"
+    ],
+    "image": "/images/submersible-cable/10.jpg",
+    "price": "₹42/meter"
+  },
+  {
+    "id": 119,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Marine Submersible Cable",
+    "desc": "Marine grade submersible cable for offshore installations",
+    "specs": [
+      "Conductor: Tinned Copper",
+      "Insulation: EPR",
+      "Sheath: Neoprene",
+      "Salt Water: Resistant"
+    ],
+    "applications": [
+      "Offshore Pumps",
+      "Marine Installations",
+      "Port Pumps",
+      "Coastal Areas"
+    ],
+    "image": "/images/submersible-cable/11.jpg",
+    "price": "₹95/meter"
+  },
+  {
+    "id": 120,
+    "category": "Submersible Cable",
+    "slug": "submersible-cable",
+    "color": "#87CEEB",
+    "name": "Armoured Submersible Cable",
+    "desc": "GI wire armoured submersible cable for mechanical protection",
+    "specs": [
+      "Conductor: Copper",
+      "Armour: GI Wire",
+      "Insulation: PVC",
+      "Voltage: 1100V"
+    ],
+    "applications": [
+      "Rocky Borewells",
+      "Industrial Sites",
+      "Mechanical Risk Areas",
+      "Construction Sites"
+    ],
+    "image": "/images/submersible-cable/12.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 121,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "Welding Cable",
+    "desc": "Highly flexible rubber insulated cable for welding machines",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: Rubber",
+      "Voltage: 100V",
+      "Size: 16 to 120 Sq.mm"
+    ],
+    "applications": [
+      "Arc Welding",
+      "MIG Welding",
+      "TIG Welding",
+      "Spot Welding"
+    ],
+    "image": "/images/welding-cable/01.jpg",
+    "price": "₹45/meter"
+  },
+  {
+    "id": 122,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "Double Insulated Welding Cable",
+    "desc": "Extra safety double insulated welding cable for wet areas",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: Double Rubber",
+      "Voltage: 100V",
+      "Safety: Enhanced"
+    ],
+    "applications": [
+      "Shipyard Welding",
+      "Underwater Welding",
+      "Wet Areas",
+      "Offshore"
+    ],
+    "image": "/images/welding-cable/02.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 123,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "Aluminium Welding Cable",
+    "desc": "Lightweight aluminium conductor welding cable for cost savings",
+    "specs": [
+      "Conductor: Aluminium",
+      "Insulation: Rubber",
+      "Voltage: 100V",
+      "Weight: 60% Lighter"
+    ],
+    "applications": [
+      "Light Welding",
+      "Portable Welders",
+      "DIY Welding",
+      "Field Repairs"
+    ],
+    "image": "/images/welding-cable/03.jpg",
+    "price": "₹25/meter"
+  },
+  {
+    "id": 124,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "CCA Welding Cable",
+    "desc": "Copper clad aluminium welding cable for balanced performance",
+    "specs": [
+      "Conductor: CCA",
+      "Insulation: Rubber",
+      "Voltage: 100V",
+      "Size: 16 to 70 Sq.mm"
+    ],
+    "applications": [
+      "General Welding",
+      "Small Workshops",
+      "Fabrication",
+      "Construction"
+    ],
+    "image": "/images/welding-cable/04.jpg",
+    "price": "₹32/meter"
+  },
+  {
+    "id": 125,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "Orange Welding Cable",
+    "desc": "High visibility orange sheathed welding cable for safety",
+    "specs": [
+      "Conductor: Copper",
+      "Sheath: Orange Rubber",
+      "Voltage: 100V",
+      "Visibility: High"
+    ],
+    "applications": [
+      "Construction Sites",
+      "Mining",
+      "Night Work",
+      "High Traffic Areas"
+    ],
+    "image": "/images/welding-cable/05.jpg",
+    "price": "₹50/meter"
+  },
+  {
+    "id": 126,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "H01N2-D Welding Cable",
+    "desc": "European standard H01N2-D rubber welding cable",
+    "specs": [
+      "Standard: H01N2-D",
+      "Conductor: Copper",
+      "Insulation: Natural Rubber",
+      "Temp: -25°C to 85°C"
+    ],
+    "applications": [
+      "Export Quality",
+      "European Projects",
+      "International Fabrication",
+      "Premium Welding"
+    ],
+    "image": "/images/welding-cable/06.jpg",
+    "price": "₹55/meter"
+  },
+  {
+    "id": 127,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "Super Flexible Welding Cable",
+    "desc": "Ultra fine stranded super flexible cable for robotic welding",
+    "specs": [
+      "Conductor: Ultra Fine Copper",
+      "Strands: 1000+",
+      "Insulation: EPR",
+      "Flex: Extreme"
+    ],
+    "applications": [
+      "Robotic Welding",
+      "Automated Welding",
+      "CNC Welding",
+      "Continuous Duty"
+    ],
+    "image": "/images/welding-cable/07.jpg",
+    "price": "₹80/meter"
+  },
+  {
+    "id": 128,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "Welding Return Cable",
+    "desc": "Earth return cable for welding machine ground connection",
+    "specs": [
+      "Conductor: Copper",
+      "Insulation: Rubber",
+      "Type: Return/Earth",
+      "Size: 16 to 95 Sq.mm"
+    ],
+    "applications": [
+      "Welding Earth",
+      "Ground Connection",
+      "Return Circuit",
+      "Work Clamp Cable"
+    ],
+    "image": "/images/welding-cable/08.jpg",
+    "price": "₹40/meter"
+  },
+  {
+    "id": 129,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "Electrode Holder Cable",
+    "desc": "Cable assembly with electrode holder for manual arc welding",
+    "specs": [
+      "Cable: Welding Grade",
+      "Holder: Heavy Duty",
+      "Length: 3m to 10m",
+      "Size: 35 to 70 Sq.mm"
+    ],
+    "applications": [
+      "Manual Arc Welding",
+      "SMAW",
+      "Field Welding",
+      "Repair Welding"
+    ],
+    "image": "/images/welding-cable/09.jpg",
+    "price": "₹350/set"
+  },
+  {
+    "id": 130,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "TIG Torch Cable",
+    "desc": "Water cooled TIG torch cable assembly for precision welding",
+    "specs": [
+      "Type: TIG Torch",
+      "Cooling: Water/Gas",
+      "Length: 4m to 8m",
+      "Current: Up to 400A"
+    ],
+    "applications": [
+      "TIG Welding",
+      "SS Welding",
+      "Aluminium Welding",
+      "Precision Fabrication"
+    ],
+    "image": "/images/welding-cable/10.jpg",
+    "price": "₹1200/set"
+  },
+  {
+    "id": 131,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "MIG Gun Cable",
+    "desc": "MIG welding gun cable for semi-automatic welding machines",
+    "specs": [
+      "Type: MIG Gun",
+      "Wire Feed: Integrated",
+      "Length: 3m to 5m",
+      "Current: Up to 500A"
+    ],
+    "applications": [
+      "MIG Welding",
+      "Production Welding",
+      "Fabrication Shops",
+      "Automotive"
+    ],
+    "image": "/images/welding-cable/11.jpg",
+    "price": "₹800/set"
+  },
+  {
+    "id": 132,
+    "category": "Welding Cable",
+    "slug": "welding-cable",
+    "color": "#F0E68C",
+    "name": "Extension Welding Cable",
+    "desc": "Quick connect extension cable for remote welding operations",
+    "specs": [
+      "Conductor: Copper",
+      "Connectors: Dinse Type",
+      "Length: 10m to 50m",
+      "Size: 50 to 95 Sq.mm"
+    ],
+    "applications": [
+      "Remote Welding",
+      "Large Structures",
+      "Shipbuilding",
+      "Bridge Construction"
+    ],
+    "image": "/images/welding-cable/12.jpg",
+    "price": "₹60/meter"
+  },
+  {
+    "id": 133,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "CAT6 LAN Cable",
+    "desc": "Category 6 UTP cable for Gigabit ethernet networks",
+    "specs": [
+      "Conductor: 23 AWG Copper",
+      "Insulation: HDPE",
+      "Sheath: PVC/LSZH",
+      "Speed: 1 Gbps"
+    ],
+    "applications": [
+      "Data Centers",
+      "Office Networks",
+      "Smart Buildings",
+      "CCTV NVR"
+    ],
+    "image": "/images/data-cable/01.jpg",
+    "price": "₹18/meter"
+  },
+  {
+    "id": 134,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "CAT6A LAN Cable",
+    "desc": "Augmented Category 6 cable supporting 10 Gigabit ethernet",
+    "specs": [
+      "Conductor: 23 AWG Copper",
+      "Insulation: HDPE",
+      "Sheath: LSZH",
+      "Speed: 10 Gbps"
+    ],
+    "applications": [
+      "Data Centers",
+      "Server Rooms",
+      "Enterprise Networks",
+      "Banking"
+    ],
+    "image": "/images/data-cable/02.jpg",
+    "price": "₹35/meter"
+  },
+  {
+    "id": 135,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "CAT5E LAN Cable",
+    "desc": "Enhanced Category 5 cable for standard network connections",
+    "specs": [
+      "Conductor: 24 AWG Copper",
+      "Insulation: HDPE",
+      "Type: UTP",
+      "Speed: 100 Mbps"
+    ],
+    "applications": [
+      "Office Wiring",
+      "Home Networks",
+      "IP Cameras",
+      "VoIP Phones"
+    ],
+    "image": "/images/data-cable/03.jpg",
+    "price": "₹10/meter"
+  },
+  {
+    "id": 136,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "CAT7 LAN Cable",
+    "desc": "Category 7 shielded cable for 10G high performance networks",
+    "specs": [
+      "Conductor: 23 AWG Copper",
+      "Shield: S/FTP Individual + Overall",
+      "Speed: 10 Gbps",
+      "Freq: 600 MHz"
+    ],
+    "applications": [
+      "High Performance Computing",
+      "Financial Trading",
+      "Studio Networks",
+      "Clean Rooms"
+    ],
+    "image": "/images/data-cable/04.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 137,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "Outdoor LAN Cable",
+    "desc": "UV resistant outdoor rated LAN cable with PE jacket",
+    "specs": [
+      "Conductor: Copper",
+      "Jacket: UV Resistant PE",
+      "Type: Cat6 UTP",
+      "Waterproof: Yes"
+    ],
+    "applications": [
+      "Outdoor CCTV",
+      "WiFi Poles",
+      "Campus Networks",
+      "Building to Building"
+    ],
+    "image": "/images/data-cable/05.jpg",
+    "price": "₹22/meter"
+  },
+  {
+    "id": 138,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "Armoured LAN Cable",
+    "desc": "Steel wire armoured LAN cable for underground deployment",
+    "specs": [
+      "Type: Cat6",
+      "Armour: Steel Wire",
+      "Conductor: Copper",
+      "Burial: Direct"
+    ],
+    "applications": [
+      "Underground Networks",
+      "Campus Backbone",
+      "Industrial Areas",
+      "Road Crossings"
+    ],
+    "image": "/images/data-cable/06.jpg",
+    "price": "₹40/meter"
+  },
+  {
+    "id": 139,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "Fibre Optic Cable OM3",
+    "desc": "Multi-mode OM3 fibre optic cable for data center backbone",
+    "specs": [
+      "Type: OM3 Multi-Mode",
+      "Fibres: 6 to 24",
+      "Speed: 10 Gbps",
+      "Wavelength: 850nm"
+    ],
+    "applications": [
+      "Data Center Backbone",
+      "SAN Networks",
+      "Campus Links",
+      "Server Interconnect"
+    ],
+    "image": "/images/data-cable/07.jpg",
+    "price": "₹45/meter"
+  },
+  {
+    "id": 140,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "Fibre Optic Cable SM",
+    "desc": "Single mode fibre optic cable for long distance communication",
+    "specs": [
+      "Type: G.652D Single Mode",
+      "Fibres: 2 to 96",
+      "Distance: Up to 100km",
+      "Loss: 0.2 dB/km"
+    ],
+    "applications": [
+      "Telecom Networks",
+      "ISP Backbone",
+      "City Networks",
+      "Inter-City Links"
+    ],
+    "image": "/images/data-cable/08.jpg",
+    "price": "₹35/meter"
+  },
+  {
+    "id": 141,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "Fibre Optic Armoured Cable",
+    "desc": "Steel tape armoured fibre cable for outdoor underground use",
+    "specs": [
+      "Type: SM/MM",
+      "Armour: Steel Tape",
+      "Fibres: 4 to 48",
+      "Burial: Direct"
+    ],
+    "applications": [
+      "FTTH Networks",
+      "ISP Last Mile",
+      "Underground Routes",
+      "Railway Telecom"
+    ],
+    "image": "/images/data-cable/09.jpg",
+    "price": "₹55/meter"
+  },
+  {
+    "id": 142,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "Telephone Cable",
+    "desc": "Multi-pair telephone cable for voice communication systems",
+    "specs": [
+      "Conductor: 0.5mm Copper",
+      "Pairs: 2 to 100",
+      "Insulation: PE",
+      "Type: Jelly Filled"
+    ],
+    "applications": [
+      "EPABX Systems",
+      "Intercom",
+      "Telephone Networks",
+      "Office PBX"
+    ],
+    "image": "/images/data-cable/10.jpg",
+    "price": "₹12/meter"
+  },
+  {
+    "id": 143,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "USB Cable Assembly",
+    "desc": "Custom USB cable assemblies for data and charging",
+    "specs": [
+      "Type: USB 2.0/3.0",
+      "Conductor: Copper",
+      "Shield: Foil + Braid",
+      "Length: Custom"
+    ],
+    "applications": [
+      "Kiosk Connections",
+      "Industrial USB",
+      "Medical Devices",
+      "POS Terminals"
+    ],
+    "image": "/images/data-cable/11.jpg",
+    "price": "₹50/piece"
+  },
+  {
+    "id": 144,
+    "category": "Data Cable",
+    "slug": "data-cable",
+    "color": "#98FB98",
+    "name": "HDMI Cable",
+    "desc": "High speed HDMI cable for audio-video transmission",
+    "specs": [
+      "Type: HDMI 2.0/2.1",
+      "Speed: 18/48 Gbps",
+      "Length: 1m to 30m",
+      "Resolution: 4K/8K"
+    ],
+    "applications": [
+      "AV Systems",
+      "Conference Rooms",
+      "Digital Signage",
+      "Home Theater"
+    ],
+    "image": "/images/data-cable/12.jpg",
+    "price": "₹80/piece"
+  },
+  {
+    "id": 145,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator Travelling Cable",
+    "desc": "Flexible travelling cable for elevator and lift applications",
+    "specs": [
+      "Conductor: Fine Stranded Copper",
+      "Insulation: PVC",
+      "Cores: 12 to 48",
+      "Type: Flat Flexible"
+    ],
+    "applications": [
+      "Elevators",
+      "Lifts",
+      "Escalators",
+      "Moving Walkways"
+    ],
+    "image": "/images/elevator-cable/01.jpg",
+    "price": "₹120/meter"
+  },
+  {
+    "id": 146,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator CCTV Cable",
+    "desc": "Composite travelling cable with CCTV and data cores",
+    "specs": [
+      "Video: RG59 Type",
+      "Power: 2 Core",
+      "Data: Cat5E",
+      "Type: Composite Flat"
+    ],
+    "applications": [
+      "Elevator CCTV",
+      "Lift Monitoring",
+      "Intercom",
+      "Display Screens"
+    ],
+    "image": "/images/elevator-cable/02.jpg",
+    "price": "₹150/meter"
+  },
+  {
+    "id": 147,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator Compensating Cable",
+    "desc": "Steel wire rope compensating cable for high rise elevators",
+    "specs": [
+      "Type: Compensating",
+      "Material: Steel + Rubber",
+      "For: High Rise",
+      "Floors: 20+"
+    ],
+    "applications": [
+      "High Rise Lifts",
+      "Express Elevators",
+      "Service Elevators",
+      "Freight Elevators"
+    ],
+    "image": "/images/elevator-cable/03.jpg",
+    "price": "₹200/meter"
+  },
+  {
+    "id": 148,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator Control Cable",
+    "desc": "Multi-core flat control cable for elevator control systems",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 20 to 60",
+      "Type: Flat",
+      "Sheath: PVC"
+    ],
+    "applications": [
+      "Lift Control",
+      "Door Systems",
+      "Safety Circuits",
+      "Position Sensing"
+    ],
+    "image": "/images/elevator-cable/04.jpg",
+    "price": "₹130/meter"
+  },
+  {
+    "id": 149,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator Power Cable",
+    "desc": "Heavy duty flat power cable for elevator motor supply",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 3+1",
+      "Size: 6 to 35 Sq.mm",
+      "Type: Flat Flexible"
+    ],
+    "applications": [
+      "Lift Motor Power",
+      "Hydraulic Elevators",
+      "Machine Room Less",
+      "Gearless Drives"
+    ],
+    "image": "/images/elevator-cable/05.jpg",
+    "price": "₹160/meter"
+  },
+  {
+    "id": 150,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Fire Rated Elevator Cable",
+    "desc": "Fire survival travelling cable for fire man's lift",
+    "specs": [
+      "Conductor: Copper",
+      "Fire: IEC 60331",
+      "Cores: 12 to 30",
+      "Rating: 2 Hours"
+    ],
+    "applications": [
+      "Fireman's Lift",
+      "Emergency Elevator",
+      "Hospital Lifts",
+      "High Rise Safety"
+    ],
+    "image": "/images/elevator-cable/06.jpg",
+    "price": "₹220/meter"
+  },
+  {
+    "id": 151,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator Intercom Cable",
+    "desc": "Shielded cable for elevator intercom and communication",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 2 to 6",
+      "Shield: Foil",
+      "Type: Flat Shielded"
+    ],
+    "applications": [
+      "Elevator Intercom",
+      "Emergency Communication",
+      "Music Systems",
+      "Announcement"
+    ],
+    "image": "/images/elevator-cable/07.jpg",
+    "price": "₹85/meter"
+  },
+  {
+    "id": 152,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator Encoder Cable",
+    "desc": "Screened cable for elevator position encoder systems",
+    "specs": [
+      "Conductor: Stranded Copper",
+      "Pairs: 2 to 6",
+      "Shield: Foil + Braid",
+      "Type: Flat"
+    ],
+    "applications": [
+      "Position Encoders",
+      "Speed Sensors",
+      "Floor Leveling",
+      "Door Encoders"
+    ],
+    "image": "/images/elevator-cable/08.jpg",
+    "price": "₹110/meter"
+  },
+  {
+    "id": 153,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Escalator Flat Cable",
+    "desc": "Flat flexible cable for escalator handrail and step control",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 8 to 24",
+      "Type: Flat",
+      "Flex: High"
+    ],
+    "applications": [
+      "Escalators",
+      "Moving Walkways",
+      "Travelators",
+      "Airport Walkways"
+    ],
+    "image": "/images/elevator-cable/09.jpg",
+    "price": "₹100/meter"
+  },
+  {
+    "id": 154,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Dumbwaiter Cable",
+    "desc": "Lightweight flat cable for dumbwaiter and service lifts",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 6 to 12",
+      "Type: Flat Mini",
+      "Size: 0.75 Sq.mm"
+    ],
+    "applications": [
+      "Dumbwaiters",
+      "Kitchen Lifts",
+      "Document Lifts",
+      "Hospital Service"
+    ],
+    "image": "/images/elevator-cable/10.jpg",
+    "price": "₹65/meter"
+  },
+  {
+    "id": 155,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator CAT5E Cable",
+    "desc": "Flat Cat5E data cable for elevator IP systems",
+    "specs": [
+      "Type: Cat5E Flat",
+      "Conductor: Copper",
+      "Speed: 1 Gbps",
+      "Sheath: PVC Flat"
+    ],
+    "applications": [
+      "Elevator IP Systems",
+      "IoT Sensors",
+      "Display Systems",
+      "Smart Elevators"
+    ],
+    "image": "/images/elevator-cable/11.jpg",
+    "price": "₹90/meter"
+  },
+  {
+    "id": 156,
+    "category": "Elevator Cable",
+    "slug": "elevator-cable",
+    "color": "#DEB887",
+    "name": "Elevator LED Display Cable",
+    "desc": "Multi-core cable for elevator floor indicator LED displays",
+    "specs": [
+      "Conductor: Copper",
+      "Cores: 4 to 8",
+      "Type: Flat Shielded",
+      "For: LED Displays"
+    ],
+    "applications": [
+      "Floor Indicators",
+      "Direction Arrows",
+      "Digital Displays",
+      "Touch Panels"
+    ],
+    "image": "/images/elevator-cable/12.jpg",
+    "price": "₹75/meter"
+  }
+]
