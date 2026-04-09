@@ -282,7 +282,7 @@
       "Extension Boards",
       "Machinery"
     ],
-    "image": "/images/flexible-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹35/meter"
   },
   {
@@ -304,7 +304,7 @@
       "Steel Plants",
       "Foundries"
     ],
-    "image": "/images/flexible-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -326,7 +326,7 @@
       "Agriculture",
       "Water Treatment"
     ],
-    "image": "/images/flexible-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹45/meter"
   },
   {
@@ -348,7 +348,7 @@
       "Packaging Machines",
       "CNC Machines"
     ],
-    "image": "/images/flexible-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹40/meter"
   },
   {
@@ -370,7 +370,7 @@
       "Workshops",
       "Automotive Plants"
     ],
-    "image": "/images/flexible-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹55/meter"
   },
   {
@@ -392,7 +392,7 @@
       "Cranes",
       "Draglines"
     ],
-    "image": "/images/flexible-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹85/meter"
   },
   {
@@ -414,7 +414,7 @@
       "Escalators",
       "Moving Walkways"
     ],
-    "image": "/images/flexible-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹120/meter"
   },
   {
@@ -436,7 +436,7 @@
       "Material Handling",
       "Port Cranes"
     ],
-    "image": "/images/flexible-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹75/meter"
   },
   {
@@ -458,7 +458,7 @@
       "Gantry Cranes",
       "Container Cranes"
     ],
-    "image": "/images/flexible-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹90/meter"
   },
   {
@@ -480,7 +480,7 @@
       "Medical Equipment",
       "Telecom"
     ],
-    "image": "/images/flexible-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹150/meter"
   },
   {
@@ -502,7 +502,7 @@
       "Audio Systems",
       "Instrumentation"
     ],
-    "image": "/images/flexible-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹70/meter"
   },
   {
@@ -524,7 +524,7 @@
       "Portable Equipment",
       "Outdoor Events"
     ],
-    "image": "/images/flexible-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹60/meter"
   },
   {
@@ -546,7 +546,7 @@
       "Automation",
       "Switchgear"
     ],
-    "image": "/images/control-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹45/meter"
   },
   {
@@ -568,7 +568,7 @@
       "Chemical Plants",
       "Steel Mills"
     ],
-    "image": "/images/control-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹55/meter"
   },
   {
@@ -590,7 +590,7 @@
       "SCADA",
       "Process Control"
     ],
-    "image": "/images/control-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -612,7 +612,7 @@
       "Substations",
       "Power Plants"
     ],
-    "image": "/images/control-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹75/meter"
   },
   {
@@ -634,7 +634,7 @@
       "Nuclear Plants",
       "Refineries"
     ],
-    "image": "/images/control-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹95/meter"
   },
   {
@@ -656,7 +656,7 @@
       "Automation Lines",
       "Pick and Place"
     ],
-    "image": "/images/control-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹58/meter"
   },
   {
@@ -678,7 +678,7 @@
       "Tunnels",
       "Shopping Malls"
     ],
-    "image": "/images/control-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹70/meter"
   },
   {
@@ -700,7 +700,7 @@
       "Analog Systems",
       "Measurement"
     ],
-    "image": "/images/control-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹60/meter"
   },
   {
@@ -722,7 +722,7 @@
       "Building Automation",
       "EMS"
     ],
-    "image": "/images/control-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹80/meter"
   },
   {
@@ -744,7 +744,7 @@
       "Process Industry",
       "Pharma"
     ],
-    "image": "/images/control-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹72/meter"
   },
   {
@@ -766,7 +766,7 @@
       "Pump Stations",
       "HVAC"
     ],
-    "image": "/images/control-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹110/meter"
   },
   {
@@ -788,7 +788,7 @@
       "Level Crossings",
       "Station Control"
     ],
-    "image": "/images/control-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹85/meter"
   },
   {
@@ -810,7 +810,7 @@
       "Industrial",
       "Power Distribution"
     ],
-    "image": "/images/armoured-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹85/meter"
   },
   {
@@ -832,7 +832,7 @@
       "Mining",
       "Railways"
     ],
-    "image": "/images/armoured-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹120/meter"
   },
   {
@@ -854,7 +854,7 @@
       "DG Sets",
       "Transformer Connection"
     ],
-    "image": "/images/armoured-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹95/meter"
   },
   {
@@ -876,7 +876,7 @@
       "Motor Feeders",
       "Panel Feeders"
     ],
-    "image": "/images/armoured-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹105/meter"
   },
   {
@@ -898,7 +898,7 @@
       "Underground Feeders",
       "Power Grid"
     ],
-    "image": "/images/armoured-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹150/meter"
   },
   {
@@ -920,7 +920,7 @@
       "Wind Farms",
       "Solar Parks"
     ],
-    "image": "/images/armoured-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹250/meter"
   },
   {
@@ -942,7 +942,7 @@
       "Road Crossings",
       "Railway Crossings"
     ],
-    "image": "/images/armoured-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹100/meter"
   },
   {
@@ -964,7 +964,7 @@
       "Residential Complexes",
       "Commercial Buildings"
     ],
-    "image": "/images/armoured-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -986,7 +986,7 @@
       "Data Centers",
       "Shopping Malls"
     ],
-    "image": "/images/armoured-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹130/meter"
   },
   {
@@ -1008,7 +1008,7 @@
       "Quarries",
       "Coal Mines"
     ],
-    "image": "/images/armoured-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹180/meter"
   },
   {
@@ -1030,7 +1030,7 @@
       "Ports",
       "Docks"
     ],
-    "image": "/images/armoured-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹200/meter"
   },
   {
@@ -1052,7 +1052,7 @@
       "PLCC Systems",
       "Utility Control"
     ],
-    "image": "/images/armoured-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹90/meter"
   },
   {
@@ -1074,7 +1074,7 @@
       "Solar Farms",
       "Rooftop Solar"
     ],
-    "image": "/images/solar-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹25/meter"
   },
   {
@@ -1096,7 +1096,7 @@
       "Solar Plants",
       "Hybrid Systems"
     ],
-    "image": "/images/solar-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹30/meter"
   },
   {
@@ -1118,7 +1118,7 @@
       "String Inverters",
       "Module Connection"
     ],
-    "image": "/images/solar-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹18/meter"
   },
   {
@@ -1140,7 +1140,7 @@
       "Long String Runs",
       "Array Wiring"
     ],
-    "image": "/images/solar-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹24/meter"
   },
   {
@@ -1162,7 +1162,7 @@
       "Central Inverters",
       "Utility Scale"
     ],
-    "image": "/images/solar-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹35/meter"
   },
   {
@@ -1184,7 +1184,7 @@
       "Large Ground Mount",
       "Solar Parks"
     ],
-    "image": "/images/solar-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹15/meter"
   },
   {
@@ -1206,7 +1206,7 @@
       "Floating Solar",
       "Rooftop Racks"
     ],
-    "image": "/images/solar-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹32/meter"
   },
   {
@@ -1228,7 +1228,7 @@
       "Off-Grid Solar",
       "Hybrid Storage"
     ],
-    "image": "/images/solar-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹55/meter"
   },
   {
@@ -1250,7 +1250,7 @@
       "Array Earthing",
       "Lightning Protection"
     ],
-    "image": "/images/solar-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹12/meter"
   },
   {
@@ -1272,7 +1272,7 @@
       "Portable Solar",
       "DIY Solar Kits"
     ],
-    "image": "/images/solar-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹45/meter"
   },
   {
@@ -1294,7 +1294,7 @@
       "Remote Pumping",
       "Village Water Supply"
     ],
-    "image": "/images/solar-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹38/meter"
   },
   {
@@ -1316,7 +1316,7 @@
       "String Wiring",
       "Junction Boxes"
     ],
-    "image": "/images/solar-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=300&fit=crop",
     "price": "₹14/meter"
   },
   {
@@ -1338,7 +1338,7 @@
       "PLC Systems",
       "Oil and Gas"
     ],
-    "image": "/images/instrumentation-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹55/meter"
   },
   {
@@ -1360,7 +1360,7 @@
       "Boilers",
       "Chemical Plants"
     ],
-    "image": "/images/instrumentation-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹70/meter"
   },
   {
@@ -1382,7 +1382,7 @@
       "HVAC Systems",
       "Pharma"
     ],
-    "image": "/images/instrumentation-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹48/meter"
   },
   {
@@ -1404,7 +1404,7 @@
       "DCS Networks",
       "Refineries"
     ],
-    "image": "/images/instrumentation-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹85/meter"
   },
   {
@@ -1426,7 +1426,7 @@
       "Factory Automation",
       "Robotics"
     ],
-    "image": "/images/instrumentation-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹90/meter"
   },
   {
@@ -1448,7 +1448,7 @@
       "Level Sensors",
       "Flow Meters"
     ],
-    "image": "/images/instrumentation-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹52/meter"
   },
   {
@@ -1470,7 +1470,7 @@
       "Energy Meters",
       "SCADA"
     ],
-    "image": "/images/instrumentation-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -1492,7 +1492,7 @@
       "Fertilizer Plants",
       "Power Plants"
     ],
-    "image": "/images/instrumentation-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹120/meter"
   },
   {
@@ -1514,7 +1514,7 @@
       "Critical Instrumentation",
       "Safety Systems"
     ],
-    "image": "/images/instrumentation-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹95/meter"
   },
   {
@@ -1536,7 +1536,7 @@
       "Measurement",
       "Data Logging"
     ],
-    "image": "/images/instrumentation-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹58/meter"
   },
   {
@@ -1558,7 +1558,7 @@
       "Aerospace",
       "Nuclear"
     ],
-    "image": "/images/instrumentation-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹180/meter"
   },
   {
@@ -1580,7 +1580,7 @@
       "Substations",
       "Tank Farms"
     ],
-    "image": "/images/instrumentation-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹100/meter"
   },
   {
@@ -1602,7 +1602,7 @@
       "Commercial",
       "Infrastructure"
     ],
-    "image": "/images/power-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹75/meter"
   },
   {
@@ -1624,7 +1624,7 @@
       "Industries",
       "Smart Cities"
     ],
-    "image": "/images/power-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹200/meter"
   },
   {
@@ -1646,7 +1646,7 @@
       "Lighting Circuits",
       "Small Motors"
     ],
-    "image": "/images/power-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹55/meter"
   },
   {
@@ -1668,7 +1668,7 @@
       "Wind Farms",
       "Mining"
     ],
-    "image": "/images/power-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹180/meter"
   },
   {
@@ -1690,7 +1690,7 @@
       "Submarine Crossings",
       "Tunnel Systems"
     ],
-    "image": "/images/power-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹500/meter"
   },
   {
@@ -1712,7 +1712,7 @@
       "Street Lighting",
       "Anti-Theft Lines"
     ],
-    "image": "/images/power-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹28/meter"
   },
   {
@@ -1734,7 +1734,7 @@
       "Riser Cables",
       "Panel Connections"
     ],
-    "image": "/images/power-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -1756,7 +1756,7 @@
       "Transformer Connection",
       "Street Lighting"
     ],
-    "image": "/images/power-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹35/meter"
   },
   {
@@ -1778,7 +1778,7 @@
       "Premium Buildings",
       "Critical Infrastructure"
     ],
-    "image": "/images/power-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹120/meter"
   },
   {
@@ -1800,7 +1800,7 @@
       "Hospital Essential",
       "Nuclear Plants"
     ],
-    "image": "/images/power-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹160/meter"
   },
   {
@@ -1822,7 +1822,7 @@
       "Tunnels",
       "Ships"
     ],
-    "image": "/images/power-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹140/meter"
   },
   {
@@ -1844,7 +1844,7 @@
       "Sensitive Equipment",
       "EMC Zones"
     ],
-    "image": "/images/power-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400&h=300&fit=crop",
     "price": "₹130/meter"
   },
   {
@@ -1866,7 +1866,7 @@
       "Satellite TV",
       "MATV Systems"
     ],
-    "image": "/images/coaxial-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹12/meter"
   },
   {
@@ -1888,7 +1888,7 @@
       "Headend Connection",
       "Distribution Amplifiers"
     ],
-    "image": "/images/coaxial-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹18/meter"
   },
   {
@@ -1910,7 +1910,7 @@
       "DVR Connection",
       "Monitor Links"
     ],
-    "image": "/images/coaxial-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹8/meter"
   },
   {
@@ -1932,7 +1932,7 @@
       "Ham Radio",
       "Test Equipment"
     ],
-    "image": "/images/coaxial-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹10/meter"
   },
   {
@@ -1954,7 +1954,7 @@
       "Test Labs",
       "Defence"
     ],
-    "image": "/images/coaxial-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹35/meter"
   },
   {
@@ -1976,7 +1976,7 @@
       "IP Camera Power",
       "Surveillance"
     ],
-    "image": "/images/coaxial-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹15/meter"
   },
   {
@@ -1998,7 +1998,7 @@
       "Microwave Links",
       "Antenna Feeders"
     ],
-    "image": "/images/coaxial-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹120/meter"
   },
   {
@@ -2020,7 +2020,7 @@
       "WiFi Access Points",
       "DAS Systems"
     ],
-    "image": "/images/coaxial-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹85/meter"
   },
   {
@@ -2042,7 +2042,7 @@
       "Near Power Lines",
       "Hospitals"
     ],
-    "image": "/images/coaxial-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹22/meter"
   },
   {
@@ -2064,7 +2064,7 @@
       "Stage Shows",
       "Live Events"
     ],
-    "image": "/images/coaxial-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹45/meter"
   },
   {
@@ -2086,7 +2086,7 @@
       "Hospitals",
       "High Rise Buildings"
     ],
-    "image": "/images/coaxial-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹28/meter"
   },
   {
@@ -2108,7 +2108,7 @@
       "Highway Monitoring",
       "Smart City"
     ],
-    "image": "/images/coaxial-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1544724107-6d5e4b8e5e5e?w=400&h=300&fit=crop",
     "price": "₹40/meter"
   },
   {
@@ -2130,7 +2130,7 @@
       "Sprinkler Systems",
       "PA Systems"
     ],
-    "image": "/images/fire-survival-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹75/meter"
   },
   {
@@ -2152,7 +2152,7 @@
       "Manual Call Points",
       "Control Panels"
     ],
-    "image": "/images/fire-survival-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹95/meter"
   },
   {
@@ -2174,7 +2174,7 @@
       "Hospitals",
       "High Rise Buildings"
     ],
-    "image": "/images/fire-survival-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹110/meter"
   },
   {
@@ -2196,7 +2196,7 @@
       "Industrial Fire Safety",
       "Power Plants"
     ],
-    "image": "/images/fire-survival-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹140/meter"
   },
   {
@@ -2218,7 +2218,7 @@
       "Detector Loops",
       "MCP Wiring"
     ],
-    "image": "/images/fire-survival-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹60/meter"
   },
   {
@@ -2240,7 +2240,7 @@
       "Network Wiring",
       "Fire Panels"
     ],
-    "image": "/images/fire-survival-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹78/meter"
   },
   {
@@ -2262,7 +2262,7 @@
       "Public Address",
       "Announcement Systems"
     ],
-    "image": "/images/fire-survival-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹85/meter"
   },
   {
@@ -2284,7 +2284,7 @@
       "BMS Fire Network",
       "Critical IT"
     ],
-    "image": "/images/fire-survival-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹95/meter"
   },
   {
@@ -2306,7 +2306,7 @@
       "Tunnels",
       "Heritage Buildings"
     ],
-    "image": "/images/fire-survival-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹250/meter"
   },
   {
@@ -2328,7 +2328,7 @@
       "Fire Pump Feeders",
       "Refuge Areas"
     ],
-    "image": "/images/fire-survival-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹90/meter"
   },
   {
@@ -2350,7 +2350,7 @@
       "Theatres",
       "Underground Stations"
     ],
-    "image": "/images/fire-survival-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹105/meter"
   },
   {
@@ -2372,7 +2372,7 @@
       "Smoke Extraction",
       "Damper Control"
     ],
-    "image": "/images/fire-survival-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
     "price": "₹130/meter"
   },
   {
@@ -2394,7 +2394,7 @@
       "Agriculture",
       "Water Supply"
     ],
-    "image": "/images/submersible-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹35/meter"
   },
   {
@@ -2416,7 +2416,7 @@
       "Farm Irrigation",
       "Water Tanks"
     ],
-    "image": "/images/submersible-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹30/meter"
   },
   {
@@ -2438,7 +2438,7 @@
       "Municipal Water",
       "Dewatering"
     ],
-    "image": "/images/submersible-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹40/meter"
   },
   {
@@ -2460,7 +2460,7 @@
       "Industrial Borewells",
       "Geothermal"
     ],
-    "image": "/images/submersible-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹60/meter"
   },
   {
@@ -2482,7 +2482,7 @@
       "Effluent Pumps",
       "Desalination"
     ],
-    "image": "/images/submersible-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹120/meter"
   },
   {
@@ -2504,7 +2504,7 @@
       "Remote Areas",
       "Village Water Supply"
     ],
-    "image": "/images/submersible-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹38/meter"
   },
   {
@@ -2526,7 +2526,7 @@
       "Geothermal",
       "Process Pumps"
     ],
-    "image": "/images/submersible-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹48/meter"
   },
   {
@@ -2548,7 +2548,7 @@
       "Pump Repair",
       "Motor Manufacturing"
     ],
-    "image": "/images/submersible-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹450/kg"
   },
   {
@@ -2570,7 +2570,7 @@
       "Effluent Treatment",
       "Municipal Sewage"
     ],
-    "image": "/images/submersible-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹55/meter"
   },
   {
@@ -2592,7 +2592,7 @@
       "Motor Protection",
       "Monitoring"
     ],
-    "image": "/images/submersible-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹42/meter"
   },
   {
@@ -2614,7 +2614,7 @@
       "Port Pumps",
       "Coastal Areas"
     ],
-    "image": "/images/submersible-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹95/meter"
   },
   {
@@ -2636,7 +2636,7 @@
       "Mechanical Risk Areas",
       "Construction Sites"
     ],
-    "image": "/images/submersible-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -2658,7 +2658,7 @@
       "TIG Welding",
       "Spot Welding"
     ],
-    "image": "/images/welding-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹45/meter"
   },
   {
@@ -2680,7 +2680,7 @@
       "Wet Areas",
       "Offshore"
     ],
-    "image": "/images/welding-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -2702,7 +2702,7 @@
       "DIY Welding",
       "Field Repairs"
     ],
-    "image": "/images/welding-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹25/meter"
   },
   {
@@ -2724,7 +2724,7 @@
       "Fabrication",
       "Construction"
     ],
-    "image": "/images/welding-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹32/meter"
   },
   {
@@ -2746,7 +2746,7 @@
       "Night Work",
       "High Traffic Areas"
     ],
-    "image": "/images/welding-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹50/meter"
   },
   {
@@ -2768,7 +2768,7 @@
       "International Fabrication",
       "Premium Welding"
     ],
-    "image": "/images/welding-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹55/meter"
   },
   {
@@ -2790,7 +2790,7 @@
       "CNC Welding",
       "Continuous Duty"
     ],
-    "image": "/images/welding-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹80/meter"
   },
   {
@@ -2812,7 +2812,7 @@
       "Return Circuit",
       "Work Clamp Cable"
     ],
-    "image": "/images/welding-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹40/meter"
   },
   {
@@ -2834,7 +2834,7 @@
       "Field Welding",
       "Repair Welding"
     ],
-    "image": "/images/welding-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹350/set"
   },
   {
@@ -2856,7 +2856,7 @@
       "Aluminium Welding",
       "Precision Fabrication"
     ],
-    "image": "/images/welding-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹1200/set"
   },
   {
@@ -2878,7 +2878,7 @@
       "Fabrication Shops",
       "Automotive"
     ],
-    "image": "/images/welding-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹800/set"
   },
   {
@@ -2900,7 +2900,7 @@
       "Shipbuilding",
       "Bridge Construction"
     ],
-    "image": "/images/welding-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=300&fit=crop",
     "price": "₹60/meter"
   },
   {
@@ -2922,7 +2922,7 @@
       "Smart Buildings",
       "CCTV NVR"
     ],
-    "image": "/images/data-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹18/meter"
   },
   {
@@ -2944,7 +2944,7 @@
       "Enterprise Networks",
       "Banking"
     ],
-    "image": "/images/data-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹35/meter"
   },
   {
@@ -2966,7 +2966,7 @@
       "IP Cameras",
       "VoIP Phones"
     ],
-    "image": "/images/data-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹10/meter"
   },
   {
@@ -2988,7 +2988,7 @@
       "Studio Networks",
       "Clean Rooms"
     ],
-    "image": "/images/data-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -3010,7 +3010,7 @@
       "Campus Networks",
       "Building to Building"
     ],
-    "image": "/images/data-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹22/meter"
   },
   {
@@ -3032,7 +3032,7 @@
       "Industrial Areas",
       "Road Crossings"
     ],
-    "image": "/images/data-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹40/meter"
   },
   {
@@ -3054,7 +3054,7 @@
       "Campus Links",
       "Server Interconnect"
     ],
-    "image": "/images/data-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹45/meter"
   },
   {
@@ -3076,7 +3076,7 @@
       "City Networks",
       "Inter-City Links"
     ],
-    "image": "/images/data-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹35/meter"
   },
   {
@@ -3098,7 +3098,7 @@
       "Underground Routes",
       "Railway Telecom"
     ],
-    "image": "/images/data-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹55/meter"
   },
   {
@@ -3120,7 +3120,7 @@
       "Telephone Networks",
       "Office PBX"
     ],
-    "image": "/images/data-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹12/meter"
   },
   {
@@ -3142,7 +3142,7 @@
       "Medical Devices",
       "POS Terminals"
     ],
-    "image": "/images/data-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹50/piece"
   },
   {
@@ -3164,7 +3164,7 @@
       "Digital Signage",
       "Home Theater"
     ],
-    "image": "/images/data-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop",
     "price": "₹80/piece"
   },
   {
@@ -3186,7 +3186,7 @@
       "Escalators",
       "Moving Walkways"
     ],
-    "image": "/images/elevator-cable/01.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹120/meter"
   },
   {
@@ -3208,7 +3208,7 @@
       "Intercom",
       "Display Screens"
     ],
-    "image": "/images/elevator-cable/02.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹150/meter"
   },
   {
@@ -3230,7 +3230,7 @@
       "Service Elevators",
       "Freight Elevators"
     ],
-    "image": "/images/elevator-cable/03.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹200/meter"
   },
   {
@@ -3252,7 +3252,7 @@
       "Safety Circuits",
       "Position Sensing"
     ],
-    "image": "/images/elevator-cable/04.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹130/meter"
   },
   {
@@ -3274,7 +3274,7 @@
       "Machine Room Less",
       "Gearless Drives"
     ],
-    "image": "/images/elevator-cable/05.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹160/meter"
   },
   {
@@ -3296,7 +3296,7 @@
       "Hospital Lifts",
       "High Rise Safety"
     ],
-    "image": "/images/elevator-cable/06.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹220/meter"
   },
   {
@@ -3318,7 +3318,7 @@
       "Music Systems",
       "Announcement"
     ],
-    "image": "/images/elevator-cable/07.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹85/meter"
   },
   {
@@ -3340,7 +3340,7 @@
       "Floor Leveling",
       "Door Encoders"
     ],
-    "image": "/images/elevator-cable/08.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹110/meter"
   },
   {
@@ -3362,7 +3362,7 @@
       "Travelators",
       "Airport Walkways"
     ],
-    "image": "/images/elevator-cable/09.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹100/meter"
   },
   {
@@ -3384,7 +3384,7 @@
       "Document Lifts",
       "Hospital Service"
     ],
-    "image": "/images/elevator-cable/10.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹65/meter"
   },
   {
@@ -3406,7 +3406,7 @@
       "Display Systems",
       "Smart Elevators"
     ],
-    "image": "/images/elevator-cable/11.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹90/meter"
   },
   {
@@ -3428,7 +3428,7 @@
       "Digital Displays",
       "Touch Panels"
     ],
-    "image": "/images/elevator-cable/12.jpg",
+    "image": "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
     "price": "₹75/meter"
   }
 ]
