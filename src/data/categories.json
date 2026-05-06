@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "house-wire",
+    "name": "House Wire",
+    "image": "/images/house-wire/main.jpg",
+    "shortDesc": "FR, FRLS & FRZH PVC insulated copper wires for residential and commercial wiring.",
+    "description": "Premium quality electrolytic grade copper conductor house wires — Flame Retardant (FR), Flame Retardant Low Smoke (FRLS), and Zero Halogen variants. Manufactured as per IS 694:2010 with 1100V rating. Sizes from 0.5 to 16 sq.mm in 90-meter coils. ISI marked, BIS certified. Suitable for homes, offices, hospitals, malls, hotels, and industrial buildings.",
+    "standards": "IS 694:2010, BIS Certified, ISI Marked",
+    "voltage": "1100V"
+  },
+  {
+    "slug": "flexible-cable",
+    "name": "Flexible Cable",
+    "image": "/images/flexible-cable/main.jpg",
+    "shortDesc": "Multi-core flexible copper cables for industrial machinery, appliances, and movable applications.",
+    "description": "Premium multi-strand flexible copper cables built for industrial flexibility, heat resistance, and durability. Available in PVC and rubber insulation, with options for oil resistance, heat resistance, and shielding. Used in machine tools, industrial automation, lifts, cranes, festoon systems, and panel wiring. Sizes from 0.5 to 50 sq.mm in 2 to 24 cores.",
+    "standards": "IS 694:2010, IS 9968, IEC 60227",
+    "voltage": "300/500V to 1100V"
+  },
+  {
+    "slug": "control-cable",
+    "name": "Control Cable",
+    "image": "/images/control-cable/main.jpg",
+    "shortDesc": "PVC & XLPE insulated control cables for control panels, automation, and signal transmission.",
+    "description": "Multi-core control cables designed for switchgear, control panels, industrial automation, and signal circuits. Available in PVC and XLPE insulation with armoured, screened, fire resistant, and LSZH variants. Conductor sizes from 0.5 to 6 sq.mm with up to 61 cores. Compliant with IS 1554 (Part 1) and IS 7098. Suitable for power plants, refineries, metro projects, and industrial facilities.",
+    "standards": "IS 1554 Part 1, IS 7098, BS 6346",
+    "voltage": "650/1100V"
+  },
+  {
+    "slug": "armoured-cable",
+    "name": "Armoured Cable",
+    "image": "/images/armoured-cable/main.jpg",
+    "shortDesc": "Steel armoured power cables for underground installation and heavy-duty mechanical protection.",
+    "description": "Heavy-duty PVC and XLPE insulated power cables with galvanized steel wire armour (GSWA) or steel tape armour (STA) for mechanical protection. Available in copper and aluminium conductor, single core to 4-core configurations, in LT (1.1kV) and HT (3.3kV to 33kV) ratings. Used for underground power distribution, factory mains, substation feeders, and industrial supply networks.",
+    "standards": "IS 1554 Part 1, IS 7098 Part 1 & 2",
+    "voltage": "1.1kV, 3.3kV, 6.6kV, 11kV, 33kV"
+  },
+  {
+    "slug": "solar-cable",
+    "name": "Solar Cable",
+    "image": "/images/solar-cable/main.jpg",
+    "shortDesc": "DC and AC solar cables for solar PV systems, with UV resistance and TUV certification.",
+    "description": "Specialized solar DC and AC cables built for outdoor solar installations with high UV resistance, ozone resistance, and 25-year operational life. Tinned copper conductor with cross-linked polyolefin (XLPO) insulation. Available in 2.5, 4, 6, 10, and 16 sq.mm. Compliant with TUV 2 PfG 1169, EN 50618. Used in rooftop solar, solar parks, solar pumps, and battery storage systems.",
+    "standards": "TUV 2 PfG 1169, EN 50618, IEC 62930",
+    "voltage": "1.5kV DC, 1000V AC"
+  },
+  {
+    "slug": "instrumentation-cable",
+    "name": "Instrumentation Cable",
+    "image": "/images/instrumentation-cable/main.jpg",
+    "shortDesc": "Pair, triad & multi-pair shielded cables for process control, signal & data transmission.",
+    "description": "Premium shielded instrumentation cables for analog, digital, and signal transmission in industrial process control. Available in pair, triad, and multi-pair configurations with overall and individual screening. Includes thermocouple cables, RTD cables, 4-20mA signal cables, Profibus, Modbus, and Fieldbus variants. Used in refineries, petrochemical plants, power stations, and DCS/PLC systems.",
+    "standards": "BS 5308 Part 1 & 2, IS 1554",
+    "voltage": "300V to 500V"
+  },
+  {
+    "slug": "power-cable",
+    "name": "Power Cable",
+    "image": "/images/power-cable/main.jpg",
+    "shortDesc": "LT, HT and EHV power cables for distribution, transmission, and industrial supply.",
+    "description": "Comprehensive range of XLPE and PVC insulated power cables — LT (1.1kV), HT (3.3kV to 33kV), and EHV (66kV+). Available in copper and aluminium conductors, armoured and unarmoured, single core to 4-core. Used for power distribution networks, substations, factory mains, transformer connections, and utility power supply. Compliant with IS 7098 and CEA standards.",
+    "standards": "IS 7098 Part 1, 2 & 3, IS 1554",
+    "voltage": "1.1kV up to 132kV"
+  },
+  {
+    "slug": "coaxial-cable",
+    "name": "Coaxial Cable",
+    "image": "/images/coaxial-cable/main.jpg",
+    "shortDesc": "RG6, RG11, RG59 coaxial and CCTV cables for video, broadband, and surveillance.",
+    "description": "Professional grade RG-series coaxial cables (RG6, RG11, RG59, RG58) with 75-ohm impedance. Includes triaxial cables, CCTV composite cables (3+1, 4+1), low-loss variants, and quad-shielded options. Used for CCTV surveillance, satellite TV, broadband, RF transmission, and video distribution systems. CCA and pure copper conductor options available.",
+    "standards": "MIL-C-17, JIS C 3501, IEC 61196",
+    "voltage": "75 ohm / 50 ohm impedance"
+  },
+  {
+    "slug": "fire-survival-cable",
+    "name": "Fire Survival Cable",
+    "image": "/images/fire-survival-cable/main.jpg",
+    "shortDesc": "Fire resistant cables that maintain circuit integrity for 2-3 hours at 750-950 degrees Celsius.",
+    "description": "Premium fire survival cables maintaining electrical circuit integrity during fire emergencies. Mica glass tape barrier construction with LSZH (Low Smoke Zero Halogen) outer sheath. Available in 2-core to 19-core configurations. Compliant with BS 6387 (CWZ rating), IEC 60331, and IS 17048. Mandatory for fire alarm systems, emergency lighting, smoke extraction, public address systems in malls, airports, metros, and high-rise buildings.",
+    "standards": "BS 6387 CWZ, IEC 60331, IS 17048",
+    "voltage": "300/500V to 600/1000V"
+  },
+  {
+    "slug": "submersible-cable",
+    "name": "Submersible Cable",
+    "image": "/images/submersible-cable/main.jpg",
+    "shortDesc": "Flat & round submersible cables for borewell pumps, designed for underwater operation.",
+    "description": "Specialized submersible cables built for continuous underwater operation in borewell pumps and submersible motors. Heat resistant PVC/XLPE insulation with anti-rodent properties. Available in 3-core flat and 3-core round configurations, copper and aluminium conductor, sizes 1.5 to 35 sq.mm. Compliant with IS 694 and IS 14494. Suitable for agricultural pumps, drinking water systems, and industrial dewatering.",
+    "standards": "IS 694, IS 14494, IS 9968",
+    "voltage": "1100V"
+  },
+  {
+    "slug": "welding-cable",
+    "name": "Welding Cable",
+    "image": "/images/welding-cable/main.jpg",
+    "shortDesc": "Super flexible rubber insulated welding cables for arc welding and electrode holders.",
+    "description": "Highly flexible welding cables with fine stranded copper conductor and EPR/CSP rubber insulation. Designed for arc welding, MIG/MAG/TIG welding, electrode holders, and welding return circuits. Heat resistant up to 90 degrees Celsius, oil resistant, and abrasion resistant. Available in 16, 25, 35, 50, 70, and 95 sq.mm. Compliant with IS 9857 and HD 22.6. Available in standard black and high-visibility orange.",
+    "standards": "IS 9857, HD 22.6, IEC 60245-6",
+    "voltage": "100/600V"
+  },
+  {
+    "slug": "data-cable",
+    "name": "Data Cable",
+    "image": "/images/data-cable/main.jpg",
+    "shortDesc": "CAT5E, CAT6, CAT6A LAN cables and fiber optic cables for networking and IT infrastructure.",
+    "description": "Complete networking cable range including CAT5E (1 Gbps), CAT6 (10 Gbps up to 55m), CAT6A (10 Gbps full range), and CAT7 (10 Gbps shielded) LAN cables. Fiber optic cables in OM3, OM4 multimode and single-mode (OS2) variants. Indoor, outdoor, and armoured versions available. Compliant with TIA/EIA-568 and ISO/IEC 11801. Used in data centers, offices, smart buildings, and IT infrastructure.",
+    "standards": "TIA/EIA-568, ISO/IEC 11801, ITU-T G.652",
+    "voltage": "Data signal cables"
+  },
+  {
+    "slug": "elevator-cable",
+    "name": "Elevator Cable",
+    "image": "/images/elevator-cable/main.jpg",
+    "shortDesc": "Travelling cables for elevators, escalators with flat construction and high flexibility.",
+    "description": "Specialized elevator travelling cables and lift cables designed for continuous flexing and high mechanical stress. Flat construction with PVC/rubber insulation, supporting steel/textile cords, and CCTV/CAT5E communication cores integrated. Used for elevator car-to-controller connections, escalators, dumbwaiters, and material handling systems. Compliant with EN 50214 and IS 9968. Lengths up to 200 meters supported.",
+    "standards": "EN 50214, IS 9968",
+    "voltage": "300/500V"
+  }
+]
