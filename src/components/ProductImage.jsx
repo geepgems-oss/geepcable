@@ -29,7 +29,7 @@ const CATEGORY_IMAGES = {
     "https://images.unsplash.com/photo-1558618047-3c8c76bb987c?w=400&h=300&fit=crop",
 };
 
-export default function ProductImage({ src, alt, category, color, imgStyle }) {
+export default function ProductImage({ src, alt, category, imgStyle }) {
   const [useFallback, setUseFallback] = useState(false);
 
   if (useFallback) {

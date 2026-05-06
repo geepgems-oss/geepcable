@@ -29,7 +29,7 @@ export default function ProductDetailModal({ product, onClose, onAddToCart }) {
             exit={{ scale: 0.88, y: 24 }}
             onClick={(e) => e.stopPropagation()}
             style={{
-              background: "#0D1528",
+              background: "#0F2440",
               borderRadius: "20px",
               padding: "30px",
               maxWidth: "580px",
@@ -70,7 +70,7 @@ export default function ProductDetailModal({ product, onClose, onAddToCart }) {
                 key={i}
                 style={{
                   padding: "8px 0",
-                  borderBottom: "1px solid rgba(255,255,255,0.05)",
+                  borderBottom: "1px solid rgba(96,165,250,0.06)",
                   fontSize: "13px",
                   color: "#ccc",
                 }}

@@ -27,7 +27,7 @@ export default function CompareModal({ open, compareList, onClose }) {
             exit={{ scale: 0.88 }}
             onClick={(e) => e.stopPropagation()}
             style={{
-              background: "#0D1528",
+              background: "#0F2440",
               borderRadius: "20px",
               padding: "30px",
               maxWidth: "880px",
@@ -52,7 +52,7 @@ export default function CompareModal({ open, compareList, onClose }) {
                 <div
                   key={product.id}
                   style={{
-                    background: "rgba(255,255,255,0.03)",
+                    background: "rgba(96,165,250,0.04)",
                     borderRadius: "12px",
                     padding: "16px",
                     border: `1px solid ${product.color}33`,
@@ -82,7 +82,7 @@ export default function CompareModal({ open, compareList, onClose }) {
                         fontSize: "12px",
                         color: "#aaa",
                         padding: "6px 0",
-                        borderBottom: "1px solid rgba(255,255,255,0.05)",
+                        borderBottom: "1px solid rgba(96,165,250,0.06)",
                       }}
                     >
                       {spec}

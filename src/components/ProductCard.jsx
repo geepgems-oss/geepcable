@@ -19,8 +19,8 @@ export default function ProductCard({
       transition={{ delay: index * 0.04 }}
       whileHover={{ y: -6 }}
       style={{
-        background: "rgba(255,255,255,0.03)",
-        border: "1px solid rgba(255,255,255,0.07)",
+        background: "rgba(96,165,250,0.04)",
+        border: "1px solid rgba(96,165,250,0.10)",
         borderRadius: "16px",
         overflow: "hidden",
       }}
@@ -90,7 +90,7 @@ export default function ProductCard({
               padding: "10px",
               borderRadius: "8px",
               cursor: "pointer",
-              background: "rgba(255,255,255,0.05)",
+              background: "rgba(96,165,250,0.06)",
               border: "1px solid rgba(255,255,255,0.1)",
               color: "#fff",
               fontSize: "13px",

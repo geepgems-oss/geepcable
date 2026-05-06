@@ -81,7 +81,7 @@ export default function App() {
   };
 
   return (
-    <div style={{ fontFamily: "sans-serif", background: "#0A0E1A", color: "#fff", minHeight: "100vh" }}>
+    <div style={{ fontFamily: "sans-serif", background: "#0A1929", color: "#fff", minHeight: "100vh" }}>
       <Navbar
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}

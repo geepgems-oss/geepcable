@@ -8,7 +8,7 @@ export default function Hero() {
         minHeight: "100vh",
         display: "flex",
         alignItems: "center",
-        background: "linear-gradient(135deg, #0A0E1A 0%, #0D1528 60%, #0A0E1A 100%)",
+        background: "linear-gradient(135deg, #0A1929 0%, #0F2440 60%, #0A1929 100%)",
         padding: "100px 5% 60px",
         position: "relative",
         overflow: "hidden",
@@ -22,7 +22,7 @@ export default function Hero() {
           width: "500px",
           height: "500px",
           borderRadius: "50%",
-          background: "radial-gradient(circle, rgba(255,107,53,0.12) 0%, transparent 70%)",
+          background: "radial-gradient(circle, rgba(245,158,11,0.12) 0%, transparent 70%)",
           pointerEvents: "none",
         }}
       />
@@ -37,14 +37,14 @@ export default function Hero() {
           style={{
             display: "inline-flex",
             alignItems: "center",
-            background: "rgba(255,107,53,0.12)",
-            border: "1px solid rgba(255,107,53,0.3)",
+            background: "rgba(245,158,11,0.12)",
+            border: "1px solid rgba(245,158,11,0.3)",
             borderRadius: "50px",
             padding: "6px 18px",
             marginBottom: "28px",
           }}
         >
-          <span style={{ color: "#FF6B35", fontSize: "12px", letterSpacing: "2px", fontWeight: 700 }}>
+          <span style={{ color: "#F59E0B", fontSize: "12px", letterSpacing: "2px", fontWeight: 700 }}>
             ⚡ ISO 9001:2015 CERTIFIED MANUFACTURER
           </span>
         </div>
@@ -52,11 +52,11 @@ export default function Hero() {
         <h1 style={{ fontSize: "clamp(44px, 7vw, 78px)", fontWeight: 800, lineHeight: 1.1, marginBottom: "24px" }}>
           India&apos;s Most Trusted
           <br />
-          <span style={{ color: "#FF6B35" }}>Cable Manufacturer</span>
+          <span style={{ color: "#F59E0B" }}>Cable Manufacturer</span>
         </h1>
 
         <p style={{ fontSize: "17px", color: "#aaa", lineHeight: 1.8, marginBottom: "40px", maxWidth: "540px" }}>
-          40+ Years of Excellence • 900+ Satisfied Clients • 24 Product Categories • Supplying to BPCL, GAIL, NTPC,
+          40+ Years of Excellence • 900+ Satisfied Clients • 13 Product Categories • Supplying to BPCL, GAIL, NTPC,
           L&T, Indian Railways & more
         </p>
 
@@ -65,7 +65,7 @@ export default function Hero() {
             type="button"
             onClick={() => document.getElementById("products").scrollIntoView({ behavior: "smooth" })}
             style={{
-              background: "linear-gradient(135deg, #FF6B35, #FF8C35)",
+              background: "linear-gradient(135deg, #F59E0B, #FBBF24)",
               border: "none",
               borderRadius: "12px",
               padding: "15px 32px",

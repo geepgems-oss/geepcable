@@ -5,7 +5,7 @@ export default function Clients() {
     <section style={{ padding: "80px 5%" }}>
       <div style={{ textAlign: "center", marginBottom: "50px" }}>
         <h2 style={{ fontSize: "48px", fontWeight: 800 }}>
-          Our Trusted <span style={{ color: "#FF6B35" }}>Clients</span>
+          Our Trusted <span style={{ color: "#F59E0B" }}>Clients</span>
         </h2>
       </div>
       <div style={{ display: "flex", flexWrap: "wrap", gap: "14px", justifyContent: "center" }}>

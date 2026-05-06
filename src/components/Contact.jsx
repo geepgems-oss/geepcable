@@ -5,7 +5,7 @@ export default function Contact({ formData, onFormChange, onSendWhatsApp }) {
     <section id="contact" style={{ padding: "80px 5%", background: "rgba(255,255,255,0.015)" }}>
       <div style={{ textAlign: "center", marginBottom: "50px" }}>
         <h2 style={{ fontSize: "48px", fontWeight: 800 }}>
-          Get In <span style={{ color: "#FF6B35" }}>Touch</span>
+          Get In <span style={{ color: "#F59E0B" }}>Touch</span>
         </h2>
       </div>
       <div
@@ -18,7 +18,7 @@ export default function Contact({ formData, onFormChange, onSendWhatsApp }) {
         }}
       >
         <div>
-          <h3 style={{ fontSize: "20px", fontWeight: 700, marginBottom: "24px", color: "#FF6B35" }}>
+          <h3 style={{ fontSize: "20px", fontWeight: 700, marginBottom: "24px", color: "#F59E0B" }}>
             Contact Information
           </h3>
           {[
@@ -32,7 +32,7 @@ export default function Contact({ formData, onFormChange, onSendWhatsApp }) {
                   width: "42px",
                   height: "42px",
                   borderRadius: "10px",
-                  background: "rgba(255,107,53,0.12)",
+                  background: "rgba(245,158,11,0.12)",
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",
@@ -51,7 +51,7 @@ export default function Contact({ formData, onFormChange, onSendWhatsApp }) {
         </div>
 
         <div>
-          <h3 style={{ fontSize: "20px", fontWeight: 700, marginBottom: "24px", color: "#FF6B35" }}>Send Inquiry</h3>
+          <h3 style={{ fontSize: "20px", fontWeight: 700, marginBottom: "24px", color: "#F59E0B" }}>Send Inquiry</h3>
           {["name", "phone", "email", "message"].map((field) => (
             <div key={field} style={{ marginBottom: "14px" }}>
               {field === "message" ? (
@@ -64,7 +64,7 @@ export default function Contact({ formData, onFormChange, onSendWhatsApp }) {
                     width: "100%",
                     padding: "12px 14px",
                     borderRadius: "10px",
-                    background: "rgba(255,255,255,0.05)",
+                    background: "rgba(96,165,250,0.06)",
                     border: "1px solid rgba(255,255,255,0.1)",
                     color: "#fff",
                     fontSize: "14px",
@@ -83,7 +83,7 @@ export default function Contact({ formData, onFormChange, onSendWhatsApp }) {
                     width: "100%",
                     padding: "12px 14px",
                     borderRadius: "10px",
-                    background: "rgba(255,255,255,0.05)",
+                    background: "rgba(96,165,250,0.06)",
                     border: "1px solid rgba(255,255,255,0.1)",
                     color: "#fff",
                     fontSize: "14px",
@@ -101,7 +101,7 @@ export default function Contact({ formData, onFormChange, onSendWhatsApp }) {
               width: "100%",
               padding: "14px",
               borderRadius: "10px",
-              background: "linear-gradient(135deg, #FF6B35, #FF8C35)",
+              background: "linear-gradient(135deg, #F59E0B, #FBBF24)",
               border: "none",
               color: "#fff",
               fontSize: "16px",

@@ -18,7 +18,7 @@ export default function Navbar({
         zIndex: 1000,
         background: "rgba(10,14,26,0.97)",
         backdropFilter: "blur(20px)",
-        borderBottom: "1px solid rgba(255,107,53,0.2)",
+        borderBottom: "1px solid rgba(245,158,11,0.2)",
         padding: "0 5%",
         display: "flex",
         alignItems: "center",
@@ -32,7 +32,7 @@ export default function Navbar({
             width: "44px",
             height: "44px",
             borderRadius: "10px",
-            background: "linear-gradient(135deg, #FF6B35, #FF8C35)",
+            background: "linear-gradient(135deg, #2563EB, #1D4ED8)",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
@@ -44,8 +44,7 @@ export default function Navbar({
           GC
         </div>
         <div>
-          <div style={{ fontWeight: 800, fontSize: "20px", color: "#FF6B35" }}>GEEP CABLES</div>
-          <div style={{ fontSize: "10px", color: "#888", letterSpacing: "2px" }}>POWERING INDIA SINCE 1983</div>
+          <div style={{ fontWeight: 800, fontSize: "20px", color: "#fff" }}>GEEP CABLES</div>
         </div>
       </div>
 
@@ -54,7 +53,7 @@ export default function Navbar({
           display: "flex",
           alignItems: "center",
           gap: "8px",
-          background: "rgba(255,255,255,0.05)",
+          background: "rgba(96,165,250,0.06)",
           borderRadius: "8px",
           padding: "8px 14px",
         }}
@@ -80,11 +79,11 @@ export default function Navbar({
           type="button"
           onClick={onOpenCart}
           style={{
-            background: "rgba(255,107,53,0.15)",
-            border: "1px solid rgba(255,107,53,0.3)",
+            background: "rgba(245,158,11,0.15)",
+            border: "1px solid rgba(245,158,11,0.3)",
             borderRadius: "8px",
             padding: "8px 16px",
-            color: "#FF6B35",
+            color: "#F59E0B",
             cursor: "pointer",
             fontSize: "14px",
           }}
@@ -113,7 +112,7 @@ export default function Navbar({
         <a
           href={`tel:${COMPANY.phone}`}
           style={{
-            background: "linear-gradient(135deg, #FF6B35, #FF8C35)",
+            background: "linear-gradient(135deg, #F59E0B, #FBBF24)",
             borderRadius: "8px",
             padding: "8px 18px",
             color: "#fff",

@@ -18,7 +18,7 @@ export default function ScrollToTop({ visible }) {
             width: "42px",
             height: "42px",
             borderRadius: "50%",
-            background: "rgba(255,107,53,0.75)",
+            background: "rgba(245,158,11,0.75)",
             border: "none",
             color: "#fff",
             cursor: "pointer",

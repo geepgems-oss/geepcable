@@ -35,18 +35,18 @@ export default function RfqCartModal({
             exit={{ scale: 0.88 }}
             onClick={(e) => e.stopPropagation()}
             style={{
-              background: "#0D1528",
+              background: "#0F2440",
               borderRadius: "20px",
               padding: "30px",
               maxWidth: "480px",
               width: "100%",
               maxHeight: "82vh",
               overflowY: "auto",
-              border: "1px solid rgba(255,107,53,0.25)",
+              border: "1px solid rgba(245,158,11,0.25)",
             }}
           >
             <div style={{ display: "flex", justifyContent: "space-between", marginBottom: "22px" }}>
-              <h2 style={{ fontSize: "20px", fontWeight: 700, color: "#FF6B35" }}>RFQ Cart ({cart.length})</h2>
+              <h2 style={{ fontSize: "20px", fontWeight: 700, color: "#F59E0B" }}>RFQ Cart ({cart.length})</h2>
               <button
                 type="button"
                 onClick={onClose}
@@ -71,7 +71,7 @@ export default function RfqCartModal({
                       justifyContent: "space-between",
                       alignItems: "center",
                       padding: "12px 0",
-                      borderBottom: "1px solid rgba(255,255,255,0.05)",
+                      borderBottom: "1px solid rgba(96,165,250,0.06)",
                     }}
                   >
                     <div>
@@ -128,7 +128,7 @@ export default function RfqCartModal({
                       padding: "11px 14px",
                       borderRadius: "8px",
                       marginBottom: "10px",
-                      background: "rgba(255,255,255,0.05)",
+                      background: "rgba(96,165,250,0.06)",
                       border: "1px solid rgba(255,255,255,0.1)",
                       color: "#fff",
                       outline: "none",
@@ -145,7 +145,7 @@ export default function RfqCartModal({
                       padding: "11px 14px",
                       borderRadius: "8px",
                       marginBottom: "16px",
-                      background: "rgba(255,255,255,0.05)",
+                      background: "rgba(96,165,250,0.06)",
                       border: "1px solid rgba(255,255,255,0.1)",
                       color: "#fff",
                       outline: "none",
